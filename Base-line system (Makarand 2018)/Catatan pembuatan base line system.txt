@@ -1,0 +1,21 @@
+*MELODY EXTRACTION*
+-Using Praat
+-Ext .wav only
+-Pitch can be extracted easily
+-Click on sound file, then click Analyse Periodicity, then click To pitch...
+-Needs to classified for each note (see Makarand (2018) chap 2)
+-Needs a way to export pitch to text file
+
+
+*MATCHING*
+For query pattern matching, edit distance and n-gram methods are used. 
+
+Use of Euclidian distance and n-grams for pattern matching on compressed and noncompressed queries generated four possible alternatives as 
+(1) Simple Euclidian distance. 
+(2) Compressed Euclidian distance. 
+(3) N-gram method. 
+(4) Compressed n-gram method. 
+
+For compressed queries, the original song patterns are also compressed for calculating distance measure. 
+
+The cost of calculation for compressed queries is less but it eliminates the comparison of pattern with same successive notes.
