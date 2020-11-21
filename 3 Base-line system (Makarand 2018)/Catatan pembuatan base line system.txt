@@ -6,6 +6,9 @@
 -Needs to classified for each note (see Makarand (2018) chap 2)
 -Needs a way to export pitch to text file
 
+*Ekstrak Midi dengan PRAAT*
+-Convert Midi ke Wav dengan Format Factory
+-Ekstrak selayaknya Wav biasa
 
 *MATCHING*
 For query pattern matching, edit distance and n-gram methods are used. 
