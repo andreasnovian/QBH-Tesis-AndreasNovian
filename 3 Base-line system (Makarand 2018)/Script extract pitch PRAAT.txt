@@ -1,3 +1,5 @@
+Ref : https://stackoverflow.com/questions/48055876/how-to-get-or-save-the-pitch-listing-in-praat-using-scripting
+
 writeFileLine: "./pitch_list.txt", "time,pitch"
 To Pitch: 0, 75, 600
 no_of_frames = Get number of frames
