@@ -1,0 +1,3 @@
+https://towardsdatascience.com/midi-music-data-extraction-using-music21-and-word2vec-on-kaggle-cb383261cd4e
+
+https://www.kaggle.com/wfaria/midi-music-data-extraction-using-music21
