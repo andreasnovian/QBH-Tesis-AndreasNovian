@@ -1,11 +1,11 @@
 Ref : https://stackoverflow.com/questions/48055876/how-to-get-or-save-the-pitch-listing-in-praat-using-scripting
 
-writeFileLine: "./pitch_list.txt", "time,pitch"
+writeFileLine: "./pitch_list.txt", "time,f0"
 To Pitch: 0, 75, 600
 no_of_frames = Get number of frames
 
 for frame from 1 to no_of_frames
     time = Get time from frame number: frame
-    pitch = Get value in frame: frame, "Hertz"
-    appendFileLine: "pitch_list.txt", "'time','pitch'"
+    f0 = Get value in frame: frame, "Hertz"
+    appendFileLine: "pitch_list.txt", "'time','f0'"
 endfor
