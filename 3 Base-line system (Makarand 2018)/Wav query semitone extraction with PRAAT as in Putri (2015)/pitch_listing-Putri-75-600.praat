@@ -52,7 +52,7 @@ if type$ = "Sound"
   call getTimeStamp
   time$ = getTimeStamp.string$
   select table
-  Save as comma-separated file: sound_directory$ + name$ + "_result.csv"
+  Save as comma-separated file: name$ + "-semitone-75-600.csv"
   Remove
   select pitch
   Remove
@@ -99,7 +99,7 @@ elsif type$ = "LongSound"
     call getTimeStamp
     time$ = getTimeStamp.string$
     select table
-    Save as comma-separated file: sound_directory$ + name$ + "_result.csv"
+    Save as comma-separated file: name$ + "-semitone-75-600.csv"
     Remove
     select part
     plus pitch

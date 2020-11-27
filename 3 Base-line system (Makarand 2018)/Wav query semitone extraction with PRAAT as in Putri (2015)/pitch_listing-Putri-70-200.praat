@@ -20,7 +20,7 @@ form Dump pitch values
   boolean skip_VUV_check yes
   integer Time_step 0 (=auto)
   positive Minimum_pitch_(Hz) 70
-  positive Maximum_pitch_(Hz) 2000
+  positive Maximum_pitch_(Hz) 200
   text filename dummy
 endform
 
@@ -52,7 +52,7 @@ if type$ = "Sound"
   call getTimeStamp
   time$ = getTimeStamp.string$
   select table
-  Save as comma-separated file: sound_directory$ + name$ + "_result.csv"
+  Save as comma-separated file: name$ + "-semitone-70-200.csv"
   Remove
   select pitch
   Remove
@@ -99,7 +99,7 @@ elsif type$ = "LongSound"
     call getTimeStamp
     time$ = getTimeStamp.string$
     select table
-    Save as comma-separated file: sound_directory$ + name$ + "_result.csv"
+    Save as comma-separated file: name$ + "-semitone-70-200.csv"
     Remove
     select part
     plus pitch
