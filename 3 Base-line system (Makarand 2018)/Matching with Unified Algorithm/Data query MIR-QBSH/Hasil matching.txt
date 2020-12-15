@@ -13,3 +13,13 @@ query 2 top ten is [22, 30, 43, 26, 34, 5, 24, 31, 11, 21]
 query 3 top ten is [22, 30, 43, 26, 34, 5, 24, 31, 11, 35]
 query 4 top ten is [22, 30, 43, 26, 34, 25, 5, 31, 22, 37]
 query 5 top ten is [22, 30, 43, 26, 34, 25, 5, 31, 11, 21]
+
+Perbandingan antara query dengan ekstraksi melodi PRAAT dan DNN-LSTM
+query PRAAT 0 top ten is [45, 31, 22, 43, 13, 5, 24, 23, 31, 27]
+query PRAAT 1 top ten is [45, 31, 22, 43, 13, 24, 5, 23, 31, 27]
+query PRAAT 2 top ten is [45, 31, 22, 13, 25, 41, 24, 5, 31, 27]
+query PRAAT 3 top ten is [45, 22, 30, 31, 25, 5, 24, 39, 12, 30]
+query PRAAT 4 top ten is [45, 22, 30, 43, 31, 26, 25, 32, 13, 5]
+query PRAAT 5 top ten is [45, 22, 30, 31, 25, 25, 40, 5, 12, 30]
+query DNN-LSTM 0 top ten is [45, 5, 12, 43, 29, 24, 24, 4, 19, 26]
+query DNN-LSTM 1 top ten is [45, 31, 13, 5, 18, 19, 22, 20, 38, 26]
