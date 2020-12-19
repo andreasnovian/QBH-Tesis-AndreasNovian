@@ -23,3 +23,29 @@ Options:
   
 example: python predict.py <path-to-input-audio-file> <path-of-output-csv-file>
 python predict.py D:\Project\Lab_MelExt\dataset\00001.wav D:\Project\Lab_MelExt\data\res.csv
+
+Modifikasi supaya dapat memproses semua file dalam satu folder
+file predict.py line 131
+def main(audiofile, melfile, model, cpu):
+    device = torch.device('cuda') if (not cpu) and (
+        torch.cuda.device_count() > 0) else torch.device('cpu')
+    model = loadModel(model, device)
+    # times, freqs = predict_on_audio(model, audiofile, device)
+    # writeMel(melfile, times, freqs)
+    # print(f'melody write to {melfile}')
+
+    # extract all audio from a folder
+    # usage python predict.py folder-audio folder-mel-output
+    list_dir = os.listdir(audiofile)
+    for i in range(len(list_dir)):
+        print("processing ",i+1,"/",len(list_dir))
+        audio = list_dir[i]
+        audio_path = os.path.join(audiofile, audio)
+        mel_path = os.path.join(melfile, audio.replace('.wav','') + "-DNN_LSTM.csv")
+        
+        if not os.path.exists(melfile):
+            os.mkdir(melfile)
+        
+        times, freqs = predict_on_audio(model, audio_path, device)
+        writeMel(mel_path, times, freqs)
+        # print(f'melody write to {melfile}')
