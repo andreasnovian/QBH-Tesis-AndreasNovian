@@ -1,5 +1,10 @@
 Dataset eksperimen
 Sayang dibuang
+ignore
+2 Ekstraksi melodi DNN-LSTM/Query_IOACAS_QBH-pitch DNN-LSTM
+2 Ekstraksi melodi DNN-LSTM/Query_IOACAS_QBH-semitone DNN-LSTM
+2 Ekstraksi melodi DNN-LSTM/Query_MIR_QBSH-pitch DNN-LSTM
+2 Ekstraksi melodi DNN-LSTM/Query_MIR_QBSH-semitone DNN-LSTM
 3 Base-line system (Makarand 2018)/Praat Tools/Praat.exe
 3 Base-line system (Makarand 2018)/Extraction - Wav query/Query_IOACAS_QBH
 3 Base-line system (Makarand 2018)/Extraction - Wav query/Query_MIR_QBSH
