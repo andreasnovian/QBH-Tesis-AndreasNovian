@@ -1,0 +1,23 @@
+query year2003-person00001-00013-parselmouth truth is on rank 21
+query year2003-person00001-00014-parselmouth truth is on rank 5
+query year2003-person00001-00016-parselmouth truth is on rank 23
+query year2003-person00001-00017-parselmouth truth is on rank 17
+query year2003-person00001-00018-parselmouth truth is on rank 48
+MRR: 0.07
+Avg time: 1.868
+
+query year2003-person00001-00013-DNN_LSTM truth is on rank 16
+query year2003-person00001-00014-DNN_LSTM truth is on rank 6
+query year2003-person00001-00016-DNN_LSTM truth is on rank 16
+query year2003-person00001-00017-DNN_LSTM truth is on rank 28
+query year2003-person00001-00018-DNN_LSTM truth is on rank 46
+MRR: 0.07
+Avg time: 1.553
+
+query year2003-person00001-00013-manual truth is on rank 15
+query year2003-person00001-00014-manual truth is on rank 1
+query year2003-person00001-00016-manual truth is on rank 25
+query year2003-person00001-00017-manual truth is on rank 21
+query year2003-person00001-00018-manual truth is on rank 45
+MRR: 0.24
+Avg time: 1.169
