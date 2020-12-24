@@ -21,3 +21,8 @@ query year2003-person00001-00017-manual truth is on rank 21
 query year2003-person00001-00018-manual truth is on rank 45
 MRR: 0.24
 Avg time: 1.169
+
+query 001_001-parselmouth truth is on rank 119
+query 001_002-parselmouth truth is on rank 138
+MRR: 0.01
+Avg time: 55.9
