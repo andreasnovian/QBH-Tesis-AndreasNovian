@@ -1,0 +1,3 @@
+https://github.com/pikipity/Toolbox-for-Adaptive-Fourier-Decomposition
+
+https://github.com/fotisk07/Fourier-Transform
