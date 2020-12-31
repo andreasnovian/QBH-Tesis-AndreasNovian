@@ -8,8 +8,10 @@ Query_MIR_QBSH_DNN-LSTM with Database midi MIR-QBSH
 MRR: 0.13
 Avg time: 1.517
 
+--Lama beud
 Query_IOACAS_QBH with Database midi IOACAS-QBH
-
+MRR: 0.02
+Avg time: 82.08
 
 Query_IOACAS_QBH_DNN-LSTM with Database midi IOACAS-QBH
 --belum sempat dilakukan, dilanjutkan dengan Unified MNF

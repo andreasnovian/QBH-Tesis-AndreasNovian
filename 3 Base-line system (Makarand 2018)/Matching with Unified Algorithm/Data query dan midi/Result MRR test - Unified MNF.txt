@@ -23,6 +23,7 @@ query year2003-person00001-00018-manual truth is on rank 15
 MRR: 0.17
 Avg time: 1.04
 
+--yang ini tetap tapi waktunya turun jadi 2/3 dibandingin sama yang non MNF
 query 001_001-parselmouth truth is on rank 82
 query 001_002-parselmouth truth is on rank 72
 MRR: 0.01
