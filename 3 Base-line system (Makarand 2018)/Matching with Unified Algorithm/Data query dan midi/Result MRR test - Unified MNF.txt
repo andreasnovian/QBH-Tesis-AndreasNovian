@@ -1,0 +1,29 @@
+query year2003-person00001-00013-parselmouth truth is on rank 17
+query year2003-person00001-00014-parselmouth truth is on rank 2
+query year2003-person00001-00016-parselmouth truth is on rank 7
+query year2003-person00001-00017-parselmouth truth is on rank 8
+query year2003-person00001-00018-parselmouth truth is on rank 11
+MRR: 0.18
+Avg time: 1.486
+
+query year2003-person00001-00013-DNN_LSTM truth is on rank 15
+query year2003-person00001-00014-DNN_LSTM truth is on rank 3
+query year2003-person00001-00016-DNN_LSTM truth is on rank 1
+query year2003-person00001-00017-DNN_LSTM truth is on rank 2
+query year2003-person00001-00018-DNN_LSTM truth is on rank 25
+MRR: 0.39
+Avg time: 1.204
+
+--yang ini turun dibandingin sama yang non MNF
+query year2003-person00001-00013-manual truth is on rank 19
+query year2003-person00001-00014-manual truth is on rank 3
+query year2003-person00001-00016-manual truth is on rank 3
+query year2003-person00001-00017-manual truth is on rank 18
+query year2003-person00001-00018-manual truth is on rank 15
+MRR: 0.17
+Avg time: 1.04
+
+query 001_001-parselmouth truth is on rank 82
+query 001_002-parselmouth truth is on rank 72
+MRR: 0.01
+Avg time: 40.072

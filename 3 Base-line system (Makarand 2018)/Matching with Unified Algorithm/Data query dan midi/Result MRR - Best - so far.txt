@@ -1,0 +1,16 @@
+Hasil MRR untuk seluruh query dengan Unified MNF
+
+Query_MIR_QBSH with Database midi MIR-QBSH
+
+
+Query_MIR_QBSH_DNN-LSTM with Database midi MIR-QBSH
+
+
+Query_IOACAS_QBH with Database midi IOACAS-QBH
+
+
+Query_IOACAS_QBH_DNN-LSTM with Database midi IOACAS-QBH
+
+
+Analisis
+Ekstraksi melodi DNN-LSTM menghasilkan hasil kosong pada beberapa file audio yang tidak melewati filtrasi derau karena penggunaan voice detection pada file suara yang terlalu noisy
