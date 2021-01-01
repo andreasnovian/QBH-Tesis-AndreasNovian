@@ -1,0 +1,17 @@
+Start process Test query MIR-QBSH with Database midi MIR-QBSH
+Processing... 1 / 5
+query year2003-person00001-00013-parselmouth truth is on rank 17
+Processing... 2 / 5
+query year2003-person00001-00014-parselmouth truth is on rank 2
+Processing... 3 / 5
+query year2003-person00001-00016-parselmouth truth is on rank 7
+Processing... 4 / 5
+query year2003-person00001-00017-parselmouth truth is on rank 8
+Processing... 5 / 5
+query year2003-person00001-00018-parselmouth truth is on rank 11
+Finish process Test query MIR-QBSH with Database midi MIR-QBSH
+MRR: 0.18 from 5 queries
+Top 3 ratio: 0.2 from 5 queries
+Top 5 ratio: 0.2 from 5 queries
+Top 10 ratio: 0.6 from 5 queries
+Avg time: 1.108
