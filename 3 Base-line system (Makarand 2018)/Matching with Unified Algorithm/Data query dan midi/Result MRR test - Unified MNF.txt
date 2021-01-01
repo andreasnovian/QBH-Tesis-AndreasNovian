@@ -26,5 +26,12 @@ Avg time: 1.04
 --yang ini tetap tapi waktunya turun jadi 2/3 dibandingin sama yang non MNF
 query 001_001-parselmouth truth is on rank 82
 query 001_002-parselmouth truth is on rank 72
+query query0001-parselmouth truth is on rank 143
 MRR: 0.01
 Avg time: 40.072
+
+query 001_001-DNN_LSTM truth is on rank 69
+query 001_002-DNN_LSTM truth is on rank 76
+query query0001-DNN_LSTM truth is on rank 162
+MRR: 0.01
+Avg time: 21.641
