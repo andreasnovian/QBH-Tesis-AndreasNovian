@@ -14,7 +14,16 @@ Top 5 ratio: 0.3 from 4397 queries
 Top 10 ratio: 0.5 from 4397 queries
 Avg time: 0.908
 
-Salah tipe data ground truth
+
+
+Query_IOACAS_QBH_DNN-LSTM with Database midi IOACAS-QBH
+MRR: 0.05 from 759 queries
+Top 3 ratio: 0.04 from 759 queries
+Top 5 ratio: 0.07 from 759 queries
+Top 10 ratio: 0.11 from 759 queries
+Avg time: 22.0
+
+--Salah tipe data ground truth
 Query_IOACAS_QBH with Database midi IOACAS-QBH
 MRR: 0.05 from 404 queries
 Top 3 ratio: 0.03 from 404 queries
@@ -22,7 +31,7 @@ Top 5 ratio: 0.05 from 404 queries
 Top 10 ratio: 0.11 from 404 queries
 Avg time: 41.565
 
-Salah tipe data ground truth
+--Salah tipe data ground truth
 Query_IOACAS_QBH_DNN-LSTM with Database midi IOACAS-QBH
 MRR: 0.06 from 404 queries
 Top 3 ratio: 0.04 from 404 queries
