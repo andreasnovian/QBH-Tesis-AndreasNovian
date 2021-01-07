@@ -5,14 +5,14 @@ MRR: 0.21 from 4431 queries
 Top 3 ratio: 0.22 from 4431 queries
 Top 5 ratio: 0.34 from 4431 queries
 Top 10 ratio: 0.56 from 4431 queries
-Avg time: 1.098
+Avg time: 1.015
 
 Query_MIR_QBSH_DNN-LSTM with Database midi MIR-QBSH
 MRR: 0.19 from 4397 queries
 Top 3 ratio: 0.19 from 4397 queries
 Top 5 ratio: 0.3 from 4397 queries
 Top 10 ratio: 0.5 from 4397 queries
-Avg time: 0.908
+Avg time: 0.834
 
 Query_MIR_QBSH_manual label with Database midi MIR-QBSH
 MRR: 0.24 from 4431 queries
