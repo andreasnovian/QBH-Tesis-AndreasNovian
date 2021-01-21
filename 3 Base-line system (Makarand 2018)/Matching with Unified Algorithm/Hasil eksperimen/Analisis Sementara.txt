@@ -1,0 +1,8 @@
+Analisis
+
+Ekstraksi melodi DNN-LSTM menghasilkan hasil kosong pada beberapa file audio yang tidak melewati filtrasi derau karena penggunaan voice detection pada file suara yang terlalu noisy
+
+MNF dengan jumlah MIDI yang banyak membutuhkan waktu sangat lama
+harusnya jumlah MIDI disamakan dengan yang lain
+
+year2004b-person00003-00019-DNN_LSTM isinya cuma 1 nada dan menghasilkan hasil kosong karena harusnya kena di MNF, tapi karena di MNF diterapkan minimal 10 consecutive notes, makanya jadi kosong
