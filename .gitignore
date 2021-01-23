@@ -14,12 +14,5 @@ ignore
 3 Base-line system (Makarand 2018)/Extraction - Wav query/parselmouth pitch extraction/Query_IOACAS_QBH-pitch extracted with parselmouth
 3 Base-line system (Makarand 2018)/Extraction - Wav query/parselmouth pitch extraction/Query_MIR_QBSH_direct to file
 3 Base-line system (Makarand 2018)/Extraction - Wav query/parselmouth pitch extraction/Query_MIR_QBSH_direct to file-pitch extracted with parselmouth
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_IOACAS_QBH_parselmouth
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_MIR_QBSH_parselmouth
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_MIR_QBSH_manual label
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_IOACAS_QBH_DNN-LSTM
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_MIR_QBSH_DNN-LSTM
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_IOACAS_QBH_parselmouth_48_MIDI
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Query_IOACAS_QBH_DNN-LSTM_48_MIDI
-3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi/Database midi IOACAS-QBH 48 MIDI
+3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Data query dan midi
 3 Base-line system (Makarand 2018)/Matching with Unified Algorithm/Lab_MelExt
