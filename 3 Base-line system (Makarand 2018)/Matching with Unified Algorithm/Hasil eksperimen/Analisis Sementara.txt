@@ -2,6 +2,9 @@ Analisis
 
 Ekstraksi melodi DNN-LSTM menghasilkan hasil kosong pada beberapa file audio yang tidak melewati filtrasi derau karena penggunaan voice detection pada file suara yang terlalu noisy
 
+cons_10 dibuat dengan asumsi humming 1 nada butuh waktu min 0.1 detik atau 10 fragmen
+tapi ini jelek buat ekstraksi DNN-LSTM karena fragmen yang dihasilkan tidak sebanyak itu untuk 1 nada
+
 MNF dengan jumlah MIDI yang banyak membutuhkan waktu sangat lama
 harusnya jumlah MIDI disamakan dengan yang lain
 
