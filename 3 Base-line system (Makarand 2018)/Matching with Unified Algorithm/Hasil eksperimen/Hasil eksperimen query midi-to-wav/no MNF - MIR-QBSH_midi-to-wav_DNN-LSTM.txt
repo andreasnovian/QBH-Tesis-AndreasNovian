@@ -1,0 +1,104 @@
+Start process Test query MIR-QBSH_midi-to-wav_DNN-LSTM with Database midi MIR-QBSH
+Processing... 1 / 48
+query year0000-person00000-00001-DNN_LSTM truth is on rank 1
+Processing... 2 / 48
+query year0000-person00000-00002-DNN_LSTM truth is on rank 1
+Processing... 3 / 48
+query year0000-person00000-00003-DNN_LSTM truth is on rank 37
+Processing... 4 / 48
+query year0000-person00000-00004-DNN_LSTM truth is on rank 1
+Processing... 5 / 48
+query year0000-person00000-00005-DNN_LSTM truth is on rank 1
+Processing... 6 / 48
+query year0000-person00000-00006-DNN_LSTM truth is on rank 1
+Processing... 7 / 48
+query year0000-person00000-00007-DNN_LSTM truth is on rank 1
+Processing... 8 / 48
+query year0000-person00000-00008-DNN_LSTM truth is on rank 2
+Processing... 9 / 48
+query year0000-person00000-00009-DNN_LSTM truth is on rank 1
+Processing... 10 / 48
+query year0000-person00000-00010-DNN_LSTM truth is on rank 1
+Processing... 11 / 48
+query year0000-person00000-00011-DNN_LSTM truth is on rank 1
+Processing... 12 / 48
+query year0000-person00000-00012-DNN_LSTM truth is on rank 1
+Processing... 13 / 48
+query year0000-person00000-00013-DNN_LSTM truth is on rank 1
+Processing... 14 / 48
+query year0000-person00000-00014-DNN_LSTM truth is on rank 1
+Processing... 15 / 48
+query year0000-person00000-00015-DNN_LSTM truth is on rank 1
+Processing... 16 / 48
+query year0000-person00000-00016-DNN_LSTM truth is on rank 1
+Processing... 17 / 48
+query year0000-person00000-00017-DNN_LSTM truth is on rank 1
+Processing... 18 / 48
+query year0000-person00000-00018-DNN_LSTM truth is on rank 1
+Processing... 19 / 48
+query year0000-person00000-00019-DNN_LSTM truth is on rank 1
+Processing... 20 / 48
+query year0000-person00000-00020-DNN_LSTM truth is on rank 1
+Processing... 21 / 48
+query year0000-person00000-00021-DNN_LSTM truth is on rank 1
+Processing... 22 / 48
+query year0000-person00000-00022-DNN_LSTM truth is on rank 1
+Processing... 23 / 48
+query year0000-person00000-00023-DNN_LSTM truth is on rank 1
+Processing... 24 / 48
+query year0000-person00000-00024-DNN_LSTM truth is on rank 1
+Processing... 25 / 48
+query year0000-person00000-00025-DNN_LSTM truth is on rank 1
+Processing... 26 / 48
+query year0000-person00000-00026-DNN_LSTM truth is on rank 1
+Processing... 27 / 48
+query year0000-person00000-00027-DNN_LSTM truth is on rank 1
+Processing... 28 / 48
+query year0000-person00000-00028-DNN_LSTM truth is on rank 1
+Processing... 29 / 48
+query year0000-person00000-00029-DNN_LSTM truth is on rank 1
+Processing... 30 / 48
+query year0000-person00000-00030-DNN_LSTM truth is on rank 1
+Processing... 31 / 48
+query year0000-person00000-00031-DNN_LSTM truth is on rank 1
+Processing... 32 / 48
+query year0000-person00000-00032-DNN_LSTM truth is on rank 1
+Processing... 33 / 48
+query year0000-person00000-00033-DNN_LSTM truth is on rank 1
+Processing... 34 / 48
+query year0000-person00000-00034-DNN_LSTM truth is on rank 1
+Processing... 35 / 48
+query year0000-person00000-00035-DNN_LSTM truth is on rank 1
+Processing... 36 / 48
+query year0000-person00000-00036-DNN_LSTM truth is on rank 1
+Processing... 37 / 48
+query year0000-person00000-00037-DNN_LSTM truth is on rank 1
+Processing... 38 / 48
+query year0000-person00000-00038-DNN_LSTM truth is on rank 1
+Processing... 39 / 48
+query year0000-person00000-00039-DNN_LSTM truth is on rank 1
+Processing... 40 / 48
+query year0000-person00000-00040-DNN_LSTM truth is on rank 1
+Processing... 41 / 48
+query year0000-person00000-00041-DNN_LSTM truth is on rank 1
+Processing... 42 / 48
+query year0000-person00000-00042-DNN_LSTM truth is on rank 1
+Processing... 43 / 48
+query year0000-person00000-00043-DNN_LSTM truth is on rank 1
+Processing... 44 / 48
+query year0000-person00000-00044-DNN_LSTM truth is on rank 1
+Processing... 45 / 48
+query year0000-person00000-00045-DNN_LSTM truth is on rank 1
+Processing... 46 / 48
+query year0000-person00000-00046-DNN_LSTM truth is on rank 1
+Processing... 47 / 48
+query year0000-person00000-00047-DNN_LSTM truth is on rank 1
+Processing... 48 / 48
+query year0000-person00000-00048-DNN_LSTM truth is on rank 1
+Finish process Test query MIR-QBSH_midi-to-wav_DNN-LSTM with Database midi MIR-QBSH
+MRR: 0.97 from 48 queries
+Top 1 ratio: 0.96 from 48 queries
+Top 3 ratio: 0.98 from 48 queries
+Top 5 ratio: 0.98 from 48 queries
+Top 10 ratio: 0.98 from 48 queries
+Avg time: 0.657
