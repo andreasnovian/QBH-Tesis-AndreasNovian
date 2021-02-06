@@ -9,3 +9,7 @@ MNF dengan jumlah MIDI yang banyak membutuhkan waktu sangat lama
 harusnya jumlah MIDI disamakan dengan yang lain
 
 year2004b-person00003-00019-DNN_LSTM isinya cuma 1 nada dan menghasilkan hasil kosong karena harusnya kena di MNF, tapi karena di MNF diterapkan minimal 10 consecutive notes, makanya jadi kosong
+
+Tools PRAAT itu POWERFUL banget. Nanti di presentasi kasih tunjuk aja hasil dari year2003-person00003-00013 untuk Praat, DNN-LSTM, clean-Praat, dan clean-DNN-LSTM
+
+Hasil eksperimen DNN-LSTM yang saya dapatkan tidak lebih baik dari base-line. Analisis awal saya karena metode DNN-LSTM sangat sensitif terhadap noise sehingga untuk query humming dengan tingkat noise yang tinggi, tidak banyak not yang berhasil diekstrak (bahkan ada yang kosong) dan berakibat pada berkurangnya akurasi hasil pencarian. Selain itu, base-line menggunakan ekstraksi melodi dengan tools PRAAT yang terus dikembangkan sehingga mungkin tools ini sekarang sudah lebih baik dari metode DNN-LSTM.
