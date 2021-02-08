@@ -1,0 +1,40 @@
+import parselmouth
+def remove_noise_with_spectral_subtraction(filename):
+    snd = parselmouth.Sound(filename)
+
+    pitch = snd.to_pitch()
+    pitch_values = pitch.selected_array['frequency']
+
+    final_unvoiced_length = 0
+    final_unvoiced_start_time = 0.0
+    final_unvoiced_end_time = 0.0
+    
+    for i in range(len(pitch_values)-1):
+        temp_unvoiced_length = 0
+        temp_unvoiced_start_time = pitch.xs()[i].round(decimals=3)
+
+        while pitch_values[i] == 0.0 and i < len(pitch_values)-1:
+            temp_unvoiced_length += 1
+            i += 1
+        
+        temp_unvoiced_end_time = pitch.xs()[i].round(decimals=3)
+
+        if temp_unvoiced_length > final_unvoiced_length:
+            final_unvoiced_length = temp_unvoiced_length
+            final_unvoiced_start_time = temp_unvoiced_start_time
+            final_unvoiced_end_time = temp_unvoiced_end_time
+
+    if final_unvoiced_length!=0:
+        snd_unvoiced = snd.extract_part(from_time = final_unvoiced_start_time, to_time = final_unvoiced_end_time, 
+        preserve_times=True)
+        
+        snd_noise_removed = parselmouth.praat.call(snd, "Remove noise", final_unvoiced_start_time, 
+        final_unvoiced_end_time, 0.025, 80.0, 10000.0, 40.0, "Spectral subtraction")
+
+        parselmouth.Vector.scale_peak(snd_noise_removed)
+
+        # return parselmouth object
+        return snd_noise_removed
+    else:
+        print("no unvoiced segment found for", filename)
+        return snd
