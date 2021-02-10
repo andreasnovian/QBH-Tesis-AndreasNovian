@@ -20,8 +20,11 @@ def remove_noise_with_spectral_subtraction(filename):
         
         temp_unvoiced_end_time = pitch.xs()[i].round(decimals=3)
 
+        bandwidth = temp_unvoiced_end_time - temp_unvoiced_start_time
+        # batas minimal bandwidth praat = 0.0625 (dalam detik)
+
         if temp_unvoiced_length > final_unvoiced_length:
-            if temp_unvoiced_start_time == 0.0:
+            if temp_unvoiced_start_time <= 0.1 and bandwidth > 0.5 :
                 final_unvoiced_length = temp_unvoiced_length
                 final_unvoiced_start_time = temp_unvoiced_start_time
                 final_unvoiced_end_time = temp_unvoiced_end_time
@@ -33,8 +36,8 @@ def remove_noise_with_spectral_subtraction(filename):
                 final_unvoiced_end_time = temp_unvoiced_end_time
 
     if final_unvoiced_length!=0:
-        snd_unvoiced = snd.extract_part(from_time = final_unvoiced_start_time, to_time = final_unvoiced_end_time, 
-        preserve_times=True)
+        # snd_unvoiced = snd.extract_part(from_time = final_unvoiced_start_time, to_time = final_unvoiced_end_time, 
+        # preserve_times=True)
         
         snd_noise_removed = parselmouth.praat.call(snd, "Remove noise", final_unvoiced_start_time, 
         final_unvoiced_end_time, 0.025, 80.0, 10000.0, 40.0, "Spectral subtraction")
