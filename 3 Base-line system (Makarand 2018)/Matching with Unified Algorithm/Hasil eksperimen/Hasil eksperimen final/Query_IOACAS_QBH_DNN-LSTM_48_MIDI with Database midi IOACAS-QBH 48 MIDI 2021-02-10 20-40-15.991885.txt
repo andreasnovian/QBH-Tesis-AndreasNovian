@@ -1,0 +1,690 @@
+Start process Query_IOACAS_QBH_DNN-LSTM_48_MIDI with Database midi IOACAS-QBH 48 MIDI
+Start matching process
+Processing... 1 / 340
+query 001_003-DNN_LSTM truth is on rank 18
+Processing... 2 / 340
+query 001_004-DNN_LSTM truth is on rank 1
+Processing... 3 / 340
+query 001_008-DNN_LSTM truth is on rank 12
+Processing... 4 / 340
+query 002_004-DNN_LSTM truth is on rank 6
+Processing... 5 / 340
+query 003_005-DNN_LSTM truth is on rank 1
+Processing... 6 / 340
+query 003_006-DNN_LSTM truth is on rank 12
+Processing... 7 / 340
+query 004_001-DNN_LSTM truth is on rank 10
+Processing... 8 / 340
+query 004_010-DNN_LSTM truth is on rank 9
+Processing... 9 / 340
+query 005_010-DNN_LSTM truth is on rank 15
+Processing... 10 / 340
+query 006_002-DNN_LSTM truth is on rank 3
+Processing... 11 / 340
+query 006_009-DNN_LSTM truth is on rank 11
+Processing... 12 / 340
+query 006_010-DNN_LSTM truth is on rank 11
+Processing... 13 / 340
+query 007_001-DNN_LSTM truth is on rank 10
+Processing... 14 / 340
+query 007_003-DNN_LSTM truth is on rank 12
+Processing... 15 / 340
+query 007_004-DNN_LSTM truth is on rank 10
+Processing... 16 / 340
+query 007_006-DNN_LSTM truth is on rank 4
+Processing... 17 / 340
+query 009_002-DNN_LSTM truth is on rank 3
+Processing... 18 / 340
+query 009_004-DNN_LSTM truth is on rank 4
+Processing... 19 / 340
+query 009_005-DNN_LSTM truth is on rank 6
+Processing... 20 / 340
+query 009_007-DNN_LSTM truth is on rank 2
+Processing... 21 / 340
+query 009_009-DNN_LSTM truth is on rank 29
+Processing... 22 / 340
+query 013_004-DNN_LSTM truth is on rank 19
+Processing... 23 / 340
+query 014_002-DNN_LSTM truth is on rank 3
+Processing... 24 / 340
+query 014_008-DNN_LSTM truth is on rank 7
+Processing... 25 / 340
+query 016_004-DNN_LSTM truth is on rank 4
+Processing... 26 / 340
+query 016_005-DNN_LSTM truth is on rank 3
+Processing... 27 / 340
+query 016_009-DNN_LSTM truth is on rank 11
+Processing... 28 / 340
+query 017_003-DNN_LSTM truth is on rank 13
+Processing... 29 / 340
+query 017_006-DNN_LSTM truth is on rank 7
+Processing... 30 / 340
+query 018_002-DNN_LSTM truth is on rank 2
+Processing... 31 / 340
+query 018_005-DNN_LSTM truth is on rank 3
+Processing... 32 / 340
+query 018_008-DNN_LSTM truth is on rank 7
+Processing... 33 / 340
+query 019_001-DNN_LSTM truth is on rank 17
+Processing... 34 / 340
+query 019_003-DNN_LSTM truth is on rank 3
+Processing... 35 / 340
+query 019_005-DNN_LSTM truth is on rank 5
+Processing... 36 / 340
+query 019_006-DNN_LSTM truth is on rank 22
+Processing... 37 / 340
+query 019_007-DNN_LSTM truth is on rank 9
+Processing... 38 / 340
+query 019_008-DNN_LSTM truth is on rank 9
+Processing... 39 / 340
+query 020_002-DNN_LSTM truth is on rank 1
+Processing... 40 / 340
+query 020_003-DNN_LSTM truth is on rank 2
+Processing... 41 / 340
+query 020_005-DNN_LSTM truth is on rank 10
+Processing... 42 / 340
+query 020_009-DNN_LSTM truth is on rank 2
+Processing... 43 / 340
+query 020_011-DNN_LSTM truth is on rank 1
+Processing... 44 / 340
+query 020_015-DNN_LSTM truth is on rank 8
+Processing... 45 / 340
+query 020_016-DNN_LSTM truth is on rank 4
+Processing... 46 / 340
+query 020_018-DNN_LSTM truth is on rank 21
+Processing... 47 / 340
+query 021_009-DNN_LSTM truth is on rank 3
+Processing... 48 / 340
+query 021_010-DNN_LSTM truth is on rank 4
+Processing... 49 / 340
+query 021_011-DNN_LSTM truth is on rank 9
+Processing... 50 / 340
+query 022_001-DNN_LSTM truth is on rank 6
+Processing... 51 / 340
+query 022_003-DNN_LSTM truth is on rank 2
+Processing... 52 / 340
+query 022_004-DNN_LSTM truth is on rank 13
+Processing... 53 / 340
+query 022_005-DNN_LSTM truth is on rank 8
+Processing... 54 / 340
+query 023_021-DNN_LSTM truth is on rank 6
+Processing... 55 / 340
+query 023_029-DNN_LSTM truth is on rank 28
+Processing... 56 / 340
+query 023_030-DNN_LSTM truth is on rank 7
+Processing... 57 / 340
+query 025_001-DNN_LSTM truth is on rank 18
+Processing... 58 / 340
+query 025_013-DNN_LSTM truth is on rank 20
+Processing... 59 / 340
+query 025_021-DNN_LSTM truth is on rank 3
+Processing... 60 / 340
+query 025_025-DNN_LSTM truth is on rank 5
+Processing... 61 / 340
+query 025_027-DNN_LSTM truth is on rank 5
+Processing... 62 / 340
+query 026_001-DNN_LSTM truth is on rank 5
+Processing... 63 / 340
+query 026_003-DNN_LSTM truth is on rank 2
+Processing... 64 / 340
+query 026_030-DNN_LSTM truth is on rank 11
+Processing... 65 / 340
+query 027_006-DNN_LSTM truth is on rank 14
+Processing... 66 / 340
+query 027_007-DNN_LSTM truth is on rank 13
+Processing... 67 / 340
+query 027_008-DNN_LSTM truth is on rank 10
+Processing... 68 / 340
+query 027_009-DNN_LSTM truth is on rank 9
+Processing... 69 / 340
+query 027_010-DNN_LSTM truth is on rank 10
+Processing... 70 / 340
+query 027_011-DNN_LSTM truth is on rank 2
+Processing... 71 / 340
+query 027_012-DNN_LSTM truth is on rank 3
+Processing... 72 / 340
+query 027_013-DNN_LSTM truth is on rank 5
+Processing... 73 / 340
+query 027_014-DNN_LSTM truth is on rank 20
+Processing... 74 / 340
+query 027_015-DNN_LSTM truth is on rank 4
+Processing... 75 / 340
+query 027_016-DNN_LSTM truth is on rank 7
+Processing... 76 / 340
+query 027_017-DNN_LSTM truth is on rank 7
+Processing... 77 / 340
+query 027_018-DNN_LSTM truth is on rank 3
+Processing... 78 / 340
+query 027_019-DNN_LSTM truth is on rank 2
+Processing... 79 / 340
+query 027_020-DNN_LSTM truth is on rank 6
+Processing... 80 / 340
+query 027_021-DNN_LSTM truth is on rank 6
+Processing... 81 / 340
+query 027_027-DNN_LSTM truth is on rank 1
+Processing... 82 / 340
+query 027_028-DNN_LSTM truth is on rank 4
+Processing... 83 / 340
+query 028_004-DNN_LSTM truth is on rank 16
+Processing... 84 / 340
+query 028_007-DNN_LSTM truth is on rank 9
+Processing... 85 / 340
+query 028_014-DNN_LSTM truth is on rank 2
+Processing... 86 / 340
+query 028_024-DNN_LSTM truth is on rank 18
+Processing... 87 / 340
+query 029_005-DNN_LSTM truth is on rank 6
+Processing... 88 / 340
+query 029_006-DNN_LSTM truth is on rank 2
+Processing... 89 / 340
+query 029_008-DNN_LSTM truth is on rank 21
+Processing... 90 / 340
+query 029_009-DNN_LSTM truth is on rank 4
+Processing... 91 / 340
+query 029_029-DNN_LSTM truth is on rank 7
+Processing... 92 / 340
+query 030_004-DNN_LSTM truth is on rank 12
+Processing... 93 / 340
+query 030_007-DNN_LSTM truth is on rank 18
+Processing... 94 / 340
+query 030_008-DNN_LSTM truth is on rank 25
+Processing... 95 / 340
+query 030_015-DNN_LSTM truth is on rank 6
+Processing... 96 / 340
+query 030_020-DNN_LSTM truth is on rank 10
+Processing... 97 / 340
+query 030_021-DNN_LSTM truth is on rank 5
+Processing... 98 / 340
+query 030_023-DNN_LSTM truth is on rank 19
+Processing... 99 / 340
+query 030_025-DNN_LSTM truth is on rank 7
+Processing... 100 / 340
+query 031_010-DNN_LSTM truth is on rank 27
+Processing... 101 / 340
+query 031_011-DNN_LSTM truth is on rank 10
+Processing... 102 / 340
+query 031_012-DNN_LSTM truth is on rank 13
+Processing... 103 / 340
+query 031_015-DNN_LSTM truth is on rank 8
+Processing... 104 / 340
+query 031_016-DNN_LSTM truth is on rank 13
+Processing... 105 / 340
+query 031_027-DNN_LSTM truth is on rank 17
+Processing... 106 / 340
+query 031_028-DNN_LSTM truth is on rank 19
+Processing... 107 / 340
+query 031_029-DNN_LSTM truth is on rank 15
+Processing... 108 / 340
+query 031_030-DNN_LSTM truth is on rank 4
+Processing... 109 / 340
+query 032_004-DNN_LSTM truth is on rank 13
+Processing... 110 / 340
+query 032_005-DNN_LSTM truth is on rank 16
+Processing... 111 / 340
+query 032_007-DNN_LSTM truth is on rank 1
+Processing... 112 / 340
+query 032_010-DNN_LSTM truth is on rank 14
+Processing... 113 / 340
+query 032_011-DNN_LSTM truth is on rank 9
+Processing... 114 / 340
+query 032_012-DNN_LSTM truth is on rank 26
+Processing... 115 / 340
+query 032_014-DNN_LSTM truth is on rank 13
+Processing... 116 / 340
+query 032_030-DNN_LSTM truth is on rank 11
+Processing... 117 / 340
+query 033_020-DNN_LSTM truth is on rank 1
+Processing... 118 / 340
+query 033_022-DNN_LSTM truth is on rank 1
+Processing... 119 / 340
+query 033_023-DNN_LSTM truth is on rank 1
+Processing... 120 / 340
+query 033_025-DNN_LSTM truth is on rank 2
+Processing... 121 / 340
+query 033_029-DNN_LSTM truth is on rank 8
+Processing... 122 / 340
+query 034_014-DNN_LSTM truth is on rank 4
+Processing... 123 / 340
+query 034_024-DNN_LSTM truth is on rank 2
+Processing... 124 / 340
+query 034_026-DNN_LSTM truth is on rank 1
+Processing... 125 / 340
+query 034_027-DNN_LSTM truth is on rank 6
+Processing... 126 / 340
+query 034_029-DNN_LSTM truth is on rank 3
+Processing... 127 / 340
+query 034_031-DNN_LSTM truth is on rank 3
+Processing... 128 / 340
+query 034_034-DNN_LSTM truth is on rank 10
+Processing... 129 / 340
+query 034_035-DNN_LSTM truth is on rank 16
+Processing... 130 / 340
+query 034_038-DNN_LSTM truth is on rank 1
+Processing... 131 / 340
+query 034_042-DNN_LSTM truth is on rank 7
+Processing... 132 / 340
+query 035_016-DNN_LSTM truth is on rank 1
+Processing... 133 / 340
+query 035_017-DNN_LSTM truth is on rank 2
+Processing... 134 / 340
+query 036_025-DNN_LSTM truth is on rank 1
+Processing... 135 / 340
+query 037_009-DNN_LSTM truth is on rank 11
+Processing... 136 / 340
+query 037_010-DNN_LSTM truth is on rank 1
+Processing... 137 / 340
+query 037_064-DNN_LSTM truth is on rank 17
+Processing... 138 / 340
+query 037_067-DNN_LSTM truth is on rank 3
+Processing... 139 / 340
+query 037_068-DNN_LSTM truth is on rank 4
+Processing... 140 / 340
+query 037_073-DNN_LSTM truth is on rank 21
+Processing... 141 / 340
+query 037_074-DNN_LSTM truth is on rank 2
+Processing... 142 / 340
+query 037_076-DNN_LSTM truth is on rank 2
+Processing... 143 / 340
+query 038_025-DNN_LSTM truth is on rank 7
+Processing... 144 / 340
+query 038_026-DNN_LSTM truth is on rank 7
+Processing... 145 / 340
+query 038_027-DNN_LSTM truth is on rank 7
+Processing... 146 / 340
+query 040_001-DNN_LSTM truth is on rank 6
+Processing... 147 / 340
+query 040_006-DNN_LSTM truth is on rank 5
+Processing... 148 / 340
+query 040_007-DNN_LSTM truth is on rank 1
+Processing... 149 / 340
+query 040_010-DNN_LSTM truth is on rank 3
+Processing... 150 / 340
+query 040_011-DNN_LSTM truth is on rank 2
+Processing... 151 / 340
+query 040_014-DNN_LSTM truth is on rank 12
+Processing... 152 / 340
+query 040_015-DNN_LSTM truth is on rank 9
+Processing... 153 / 340
+query 040_017-DNN_LSTM truth is on rank 3
+Processing... 154 / 340
+query 040_018-DNN_LSTM truth is on rank 23
+Processing... 155 / 340
+query 040_020-DNN_LSTM truth is on rank 12
+Processing... 156 / 340
+query 043_002-DNN_LSTM truth is on rank 17
+Processing... 157 / 340
+query 043_008-DNN_LSTM truth is on rank 7
+Processing... 158 / 340
+query 043_050-DNN_LSTM truth is on rank 6
+Processing... 159 / 340
+query 044_001-DNN_LSTM truth is on rank 5
+Processing... 160 / 340
+query 044_004-DNN_LSTM truth is on rank 6
+Processing... 161 / 340
+query 044_005-DNN_LSTM truth is on rank 6
+Processing... 162 / 340
+query 044_008-DNN_LSTM truth is on rank 23
+Processing... 163 / 340
+query 044_010-DNN_LSTM truth is on rank 8
+Processing... 164 / 340
+query 044_016-DNN_LSTM truth is on rank 5
+Processing... 165 / 340
+query 044_018-DNN_LSTM truth is on rank 15
+Processing... 166 / 340
+query 044_021-DNN_LSTM truth is on rank 3
+Processing... 167 / 340
+query 044_026-DNN_LSTM truth is on rank 3
+Processing... 168 / 340
+query 044_027-DNN_LSTM truth is on rank 6
+Processing... 169 / 340
+query 044_028-DNN_LSTM truth is on rank 3
+Processing... 170 / 340
+query 044_030-DNN_LSTM truth is on rank 11
+Processing... 171 / 340
+query 044_036-DNN_LSTM truth is on rank 3
+Processing... 172 / 340
+query 044_044-DNN_LSTM truth is on rank 9
+Processing... 173 / 340
+query query0001-DNN_LSTM truth is on rank 11
+Processing... 174 / 340
+query query0002-DNN_LSTM truth is on rank 4
+Processing... 175 / 340
+query query0003-DNN_LSTM truth is on rank 4
+Processing... 176 / 340
+query query0005-DNN_LSTM truth is on rank 8
+Processing... 177 / 340
+query query0006-DNN_LSTM truth is on rank 21
+Processing... 178 / 340
+query query0008-DNN_LSTM truth is on rank 7
+Processing... 179 / 340
+query query0009-DNN_LSTM truth is on rank 14
+Processing... 180 / 340
+query query0010-DNN_LSTM truth is on rank 5
+Processing... 181 / 340
+query query0011-DNN_LSTM truth is on rank 9
+Processing... 182 / 340
+query query0013-DNN_LSTM truth is on rank 17
+Processing... 183 / 340
+query query0017-DNN_LSTM truth is on rank 6
+Processing... 184 / 340
+query query0018-DNN_LSTM truth is on rank 6
+Processing... 185 / 340
+query query0019-DNN_LSTM truth is on rank 7
+Processing... 186 / 340
+query query0020-DNN_LSTM truth is on rank 11
+Processing... 187 / 340
+query query0021-DNN_LSTM truth is on rank 4
+Processing... 188 / 340
+query query0022-DNN_LSTM truth is on rank 1
+Processing... 189 / 340
+query query0023-DNN_LSTM truth is on rank 1
+Processing... 190 / 340
+query query0036-DNN_LSTM truth is on rank 19
+Processing... 191 / 340
+query query0037-DNN_LSTM truth is on rank 29
+Processing... 192 / 340
+query query0038-DNN_LSTM truth is on rank 6
+Processing... 193 / 340
+query query0039-DNN_LSTM truth is on rank 7
+Processing... 194 / 340
+query query0043-DNN_LSTM truth is on rank 7
+Processing... 195 / 340
+query query0044-DNN_LSTM truth is on rank 10
+Processing... 196 / 340
+query query0045-DNN_LSTM truth is on rank 16
+Processing... 197 / 340
+query query0046-DNN_LSTM truth is on rank 17
+Processing... 198 / 340
+query query0047-DNN_LSTM truth is on rank 1
+Processing... 199 / 340
+query query0048-DNN_LSTM truth is on rank 17
+Processing... 200 / 340
+query query0049-DNN_LSTM truth is on rank 9
+Processing... 201 / 340
+query query0050-DNN_LSTM truth is on rank 7
+Processing... 202 / 340
+query query0051-DNN_LSTM truth is on rank 2
+Processing... 203 / 340
+query query0052-DNN_LSTM truth is on rank 18
+Processing... 204 / 340
+query query0053-DNN_LSTM truth is on rank 6
+Processing... 205 / 340
+query query0056-DNN_LSTM truth is on rank 2
+Processing... 206 / 340
+query query0057-DNN_LSTM truth is on rank 2
+Processing... 207 / 340
+query query0058-DNN_LSTM truth is on rank 2
+Processing... 208 / 340
+query query0061-DNN_LSTM truth is on rank 1
+Processing... 209 / 340
+query query0062-DNN_LSTM truth is on rank 8
+Processing... 210 / 340
+query query0063-DNN_LSTM truth is on rank 2
+Processing... 211 / 340
+query query0064-DNN_LSTM truth is on rank 7
+Processing... 212 / 340
+query query0065-DNN_LSTM truth is on rank 17
+Processing... 213 / 340
+query query0066-DNN_LSTM truth is on rank 25
+Processing... 214 / 340
+query query0067-DNN_LSTM truth is on rank 25
+Processing... 215 / 340
+query query0068-DNN_LSTM truth is on rank 16
+Processing... 216 / 340
+query query0069-DNN_LSTM truth is on rank 9
+Processing... 217 / 340
+query query0070-DNN_LSTM truth is on rank 3
+Processing... 218 / 340
+query query0071-DNN_LSTM truth is on rank 5
+Processing... 219 / 340
+query query0072-DNN_LSTM truth is on rank 10
+Processing... 220 / 340
+query query0073-DNN_LSTM truth is on rank 1
+Processing... 221 / 340
+query query0074-DNN_LSTM truth is on rank 1
+Processing... 222 / 340
+query query0075-DNN_LSTM truth is on rank 4
+Processing... 223 / 340
+query query0076-DNN_LSTM truth is on rank 8
+Processing... 224 / 340
+query query0077-DNN_LSTM truth is on rank 12
+Processing... 225 / 340
+query query0078-DNN_LSTM truth is on rank 14
+Processing... 226 / 340
+query query0079-DNN_LSTM truth is on rank 9
+Processing... 227 / 340
+query query0080-DNN_LSTM truth is on rank 1
+Processing... 228 / 340
+query query0081-DNN_LSTM truth is on rank 3
+Processing... 229 / 340
+query query0082-DNN_LSTM truth is on rank 2
+Processing... 230 / 340
+query query0083-DNN_LSTM truth is on rank 3
+Processing... 231 / 340
+query query0084-DNN_LSTM truth is on rank 17
+Processing... 232 / 340
+query query0085-DNN_LSTM truth is on rank 12
+Processing... 233 / 340
+query query0086-DNN_LSTM truth is on rank 13
+Processing... 234 / 340
+query query0090-DNN_LSTM truth is on rank 7
+Processing... 235 / 340
+query query0091-DNN_LSTM truth is on rank 4
+Processing... 236 / 340
+query query0092-DNN_LSTM truth is on rank 1
+Processing... 237 / 340
+query query0098-DNN_LSTM truth is on rank 21
+Processing... 238 / 340
+query query0099-DNN_LSTM truth is on rank 7
+Processing... 239 / 340
+query query0100-DNN_LSTM truth is on rank 6
+Processing... 240 / 340
+query query0101-DNN_LSTM truth is on rank 3
+Processing... 241 / 340
+query query0102-DNN_LSTM truth is on rank 22
+Processing... 242 / 340
+query query0103-DNN_LSTM truth is on rank 1
+Processing... 243 / 340
+query query0104-DNN_LSTM truth is on rank 14
+Processing... 244 / 340
+query query0105-DNN_LSTM truth is on rank 2
+Processing... 245 / 340
+query query0106-DNN_LSTM truth is on rank 6
+Processing... 246 / 340
+query query0107-DNN_LSTM truth is on rank 28
+Processing... 247 / 340
+query query0109-DNN_LSTM truth is on rank 2
+Processing... 248 / 340
+query query0115-DNN_LSTM truth is on rank 1
+Processing... 249 / 340
+query query0117-DNN_LSTM truth is on rank 2
+Processing... 250 / 340
+query query0121-DNN_LSTM truth is on rank 6
+Processing... 251 / 340
+query query0122-DNN_LSTM truth is on rank 3
+Processing... 252 / 340
+query query0137-DNN_LSTM truth is on rank 3
+Processing... 253 / 340
+query query0144-DNN_LSTM truth is on rank 2
+Processing... 254 / 340
+query query0145-DNN_LSTM truth is on rank 3
+Processing... 255 / 340
+query query0147-DNN_LSTM truth is on rank 1
+Processing... 256 / 340
+query query0149-DNN_LSTM truth is on rank 20
+Processing... 257 / 340
+query query0150-DNN_LSTM truth is on rank 1
+Processing... 258 / 340
+query query0151-DNN_LSTM truth is on rank 3
+Processing... 259 / 340
+query query0153-DNN_LSTM truth is on rank 1
+Processing... 260 / 340
+query query0154-DNN_LSTM truth is on rank 15
+Processing... 261 / 340
+query query0155-DNN_LSTM truth is on rank 1
+Processing... 262 / 340
+query query0160-DNN_LSTM truth is on rank 9
+Processing... 263 / 340
+query query0161-DNN_LSTM truth is on rank 19
+Processing... 264 / 340
+query query0165-DNN_LSTM truth is on rank 4
+Processing... 265 / 340
+query query0166-DNN_LSTM truth is on rank 4
+Processing... 266 / 340
+query query0173-DNN_LSTM truth is on rank 27
+Processing... 267 / 340
+query query0183-DNN_LSTM truth is on rank 1
+Processing... 268 / 340
+query query0187-DNN_LSTM truth is on rank 4
+Processing... 269 / 340
+query query0194-DNN_LSTM truth is on rank 2
+Processing... 270 / 340
+query query0196-DNN_LSTM truth is on rank 1
+Processing... 271 / 340
+query query0197-DNN_LSTM truth is on rank 8
+Processing... 272 / 340
+query query0200-DNN_LSTM truth is on rank 2
+Processing... 273 / 340
+query query0204-DNN_LSTM truth is on rank 6
+Processing... 274 / 340
+query query0205-DNN_LSTM truth is on rank 3
+Processing... 275 / 340
+query query0206-DNN_LSTM truth is on rank 2
+Processing... 276 / 340
+query query0207-DNN_LSTM truth is on rank 14
+Processing... 277 / 340
+query query0208-DNN_LSTM truth is on rank 5
+Processing... 278 / 340
+query query0209-DNN_LSTM truth is on rank 9
+Processing... 279 / 340
+query query0210-DNN_LSTM truth is on rank 11
+Processing... 280 / 340
+query query0221-DNN_LSTM truth is on rank 15
+Processing... 281 / 340
+query query0222-DNN_LSTM truth is on rank 2
+Processing... 282 / 340
+query query0223-DNN_LSTM truth is on rank 1
+Processing... 283 / 340
+query query0224-DNN_LSTM truth is on rank 4
+Processing... 284 / 340
+query query0225-DNN_LSTM truth is on rank 7
+Processing... 285 / 340
+query query0230-DNN_LSTM truth is on rank 15
+Processing... 286 / 340
+query query0231-DNN_LSTM truth is on rank 34
+Processing... 287 / 340
+query query0232-DNN_LSTM truth is on rank 9
+Processing... 288 / 340
+query query0236-DNN_LSTM truth is on rank 7
+Processing... 289 / 340
+query query0240-DNN_LSTM truth is on rank 22
+Processing... 290 / 340
+query query0241-DNN_LSTM truth is on rank 1
+Processing... 291 / 340
+query query0248-DNN_LSTM truth is on rank 8
+Processing... 292 / 340
+query query0249-DNN_LSTM truth is on rank 2
+Processing... 293 / 340
+query query0250-DNN_LSTM truth is on rank 8
+Processing... 294 / 340
+query query0251-DNN_LSTM truth is on rank 6
+Processing... 295 / 340
+query query0252-DNN_LSTM truth is on rank 4
+Processing... 296 / 340
+query query0253-DNN_LSTM truth is on rank 20
+Processing... 297 / 340
+query query0254-DNN_LSTM truth is on rank 14
+Processing... 298 / 340
+query query0255-DNN_LSTM truth is on rank 9
+Processing... 299 / 340
+query query0256-DNN_LSTM truth is on rank 5
+Processing... 300 / 340
+query query0257-DNN_LSTM truth is on rank 2
+Processing... 301 / 340
+query query0258-DNN_LSTM truth is on rank 14
+Processing... 302 / 340
+query query0259-DNN_LSTM truth is on rank 13
+Processing... 303 / 340
+query query0260-DNN_LSTM truth is on rank 14
+Processing... 304 / 340
+query query0261-DNN_LSTM truth is on rank 5
+Processing... 305 / 340
+query query0262-DNN_LSTM truth is on rank 7
+Processing... 306 / 340
+query query0274-DNN_LSTM truth is on rank 8
+Processing... 307 / 340
+query query0275-DNN_LSTM truth is on rank 7
+Processing... 308 / 340
+query query0276-DNN_LSTM truth is on rank 1
+Processing... 309 / 340
+query query0284-DNN_LSTM truth is on rank 22
+Processing... 310 / 340
+query query0285-DNN_LSTM truth is on rank 9
+Processing... 311 / 340
+query query0287-DNN_LSTM truth is on rank 2
+Processing... 312 / 340
+query query0288-DNN_LSTM truth is on rank 3
+Processing... 313 / 340
+query query0289-DNN_LSTM truth is on rank 11
+Processing... 314 / 340
+query query0290-DNN_LSTM truth is on rank 1
+Processing... 315 / 340
+query query0291-DNN_LSTM truth is on rank 3
+Processing... 316 / 340
+query query0296-DNN_LSTM truth is on rank 8
+Processing... 317 / 340
+query query0301-DNN_LSTM truth is on rank 1
+Processing... 318 / 340
+query query0302-DNN_LSTM truth is on rank 1
+Processing... 319 / 340
+query query0303-DNN_LSTM truth is on rank 20
+Processing... 320 / 340
+query query0304-DNN_LSTM truth is on rank 6
+Processing... 321 / 340
+query query0305-DNN_LSTM truth is on rank 9
+Processing... 322 / 340
+query query0306-DNN_LSTM truth is on rank 9
+Processing... 323 / 340
+query query0307-DNN_LSTM truth is on rank 6
+Processing... 324 / 340
+query query0312-DNN_LSTM truth is on rank 4
+Processing... 325 / 340
+query query0313-DNN_LSTM truth is on rank 4
+Processing... 326 / 340
+query query0317-DNN_LSTM truth is on rank 9
+Processing... 327 / 340
+query query0318-DNN_LSTM truth is on rank 2
+Processing... 328 / 340
+query query0322-DNN_LSTM truth is on rank 15
+Processing... 329 / 340
+query query0324-DNN_LSTM truth is on rank 7
+Processing... 330 / 340
+query query0325-DNN_LSTM truth is on rank 6
+Processing... 331 / 340
+query query0326-DNN_LSTM truth is on rank 19
+Processing... 332 / 340
+query query0327-DNN_LSTM truth is on rank 3
+Processing... 333 / 340
+query query0328-DNN_LSTM truth is on rank 1
+Processing... 334 / 340
+query query0329-DNN_LSTM truth is on rank 10
+Processing... 335 / 340
+query query0330-DNN_LSTM truth is on rank 14
+Processing... 336 / 340
+query query0336-DNN_LSTM truth is on rank 5
+Processing... 337 / 340
+query query0337-DNN_LSTM truth is on rank 12
+Processing... 338 / 340
+query query0338-DNN_LSTM truth is on rank 22
+Processing... 339 / 340
+query query0341-DNN_LSTM truth is on rank 20
+Processing... 340 / 340
+query query0355-DNN_LSTM truth is on rank 10
+MRR: 0.28 from 340 queries
+Top 1 ratio: 0.11 from 340 queries
+Top 3 ratio: 0.3 from 340 queries
+Top 5 ratio: 0.41 from 340 queries
+Top 10 ratio: 0.71 from 340 queries
+Average time for matching: 0.793 s
+Finish matching process
+Finish process Query_IOACAS_QBH_DNN-LSTM_48_MIDI with Database midi IOACAS-QBH 48 MIDI
