@@ -1,0 +1,40 @@
+jumlah query = 35
+
+Parameter FSD
+n_frame = 640
+n_harmonics = 10
+
+Parselmouth without FSD-SS:
+MRR: 0.37 from 35 queries
+Top 1 ratio: 0.26 from 35 queries
+Top 3 ratio: 0.37 from 35 queries
+Top 5 ratio: 0.49 from 35 queries
+Top 10 ratio: 0.66 from 35 queries
+Average time for matching: 0.206 s
+
+Parselmouth with FSD-SS:
+Average time for cleaning: 0.929 s
+MRR: 0.35 from 35 queries
+Top 1 ratio: 0.17 from 35 queries
+Top 3 ratio: 0.43 from 35 queries
+Top 5 ratio: 0.54 from 35 queries
+Top 10 ratio: 0.8 from 35 queries
+Average time for matching: 0.208 s
+
+DNN-LSTM with FSD-SS
+Average time for cleaning: 0.978 s
+MRR: 0.26 from 35 queries
+Top 1 ratio: 0.14 from 35 queries
+Top 3 ratio: 0.26 from 35 queries
+Top 5 ratio: 0.34 from 35 queries
+Top 10 ratio: 0.57 from 35 queries
+Average time for matching: 0.193 s
+
+DNN-LSTM with SS only
+Average time for cleaning: 0.185 s
+MRR: 0.25 from 33 queries
+Top 1 ratio: 0.12 from 33 queries
+Top 3 ratio: 0.24 from 33 queries
+Top 5 ratio: 0.36 from 33 queries
+Top 10 ratio: 0.61 from 33 queries
+Average time for matching: 0.164 s
