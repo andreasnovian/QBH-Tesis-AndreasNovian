@@ -1,0 +1,697 @@
+Start process Wav_Query_IOACAS_QBH_48_MIDI with Database midi IOACAS-QBH 48 MIDI
+Number of queries: 340
+Start cleaning wav file
+Average time for cleaning: 1.205 s
+Finish cleaning wav file
+Start melody extraction with parselmouth
+Average time for melody extraction: 0.229 s
+Finish melody extraction with parselmouth
+Start matching process
+Processing... 1 / 340
+query 001_003-clean-parselmouth truth is on rank 13
+Processing... 2 / 340
+query 001_004-clean-parselmouth truth is on rank 1
+Processing... 3 / 340
+query 001_008-clean-parselmouth truth is on rank 8
+Processing... 4 / 340
+query 002_004-clean-parselmouth truth is on rank 6
+Processing... 5 / 340
+query 003_005-clean-parselmouth truth is on rank 3
+Processing... 6 / 340
+query 003_006-clean-parselmouth truth is on rank 13
+Processing... 7 / 340
+query 004_001-clean-parselmouth truth is on rank 2
+Processing... 8 / 340
+query 004_010-clean-parselmouth truth is on rank 16
+Processing... 9 / 340
+query 005_010-clean-parselmouth truth is on rank 26
+Processing... 10 / 340
+query 006_002-clean-parselmouth truth is on rank 2
+Processing... 11 / 340
+query 006_009-clean-parselmouth truth is on rank 1
+Processing... 12 / 340
+query 006_010-clean-parselmouth truth is on rank 9
+Processing... 13 / 340
+query 007_001-clean-parselmouth truth is on rank 3
+Processing... 14 / 340
+query 007_003-clean-parselmouth truth is on rank 16
+Processing... 15 / 340
+query 007_004-clean-parselmouth truth is on rank 12
+Processing... 16 / 340
+query 007_006-clean-parselmouth truth is on rank 3
+Processing... 17 / 340
+query 009_002-clean-parselmouth truth is on rank 13
+Processing... 18 / 340
+query 009_004-clean-parselmouth truth is on rank 4
+Processing... 19 / 340
+query 009_005-clean-parselmouth truth is on rank 4
+Processing... 20 / 340
+query 009_007-clean-parselmouth truth is on rank 20
+Processing... 21 / 340
+query 009_009-clean-parselmouth truth is on rank 1
+Processing... 22 / 340
+query 013_004-clean-parselmouth truth is on rank 21
+Processing... 23 / 340
+query 014_002-clean-parselmouth truth is on rank 3
+Processing... 24 / 340
+query 014_008-clean-parselmouth truth is on rank 17
+Processing... 25 / 340
+query 016_004-clean-parselmouth truth is on rank 3
+Processing... 26 / 340
+query 016_005-clean-parselmouth truth is on rank 2
+Processing... 27 / 340
+query 016_009-clean-parselmouth truth is on rank 1
+Processing... 28 / 340
+query 017_003-clean-parselmouth truth is on rank 1
+Processing... 29 / 340
+query 017_006-clean-parselmouth truth is on rank 5
+Processing... 30 / 340
+query 018_002-clean-parselmouth truth is on rank 2
+Processing... 31 / 340
+query 018_005-clean-parselmouth truth is on rank 24
+Processing... 32 / 340
+query 018_008-clean-parselmouth truth is on rank 1
+Processing... 33 / 340
+query 019_001-clean-parselmouth truth is on rank 5
+Processing... 34 / 340
+query 019_003-clean-parselmouth truth is on rank 1
+Processing... 35 / 340
+query 019_005-clean-parselmouth truth is on rank 1
+Processing... 36 / 340
+query 019_006-clean-parselmouth truth is on rank 8
+Processing... 37 / 340
+query 019_007-clean-parselmouth truth is on rank 10
+Processing... 38 / 340
+query 019_008-clean-parselmouth truth is on rank 9
+Processing... 39 / 340
+query 020_002-clean-parselmouth truth is on rank 20
+Processing... 40 / 340
+query 020_003-clean-parselmouth truth is on rank 1
+Processing... 41 / 340
+query 020_005-clean-parselmouth truth is on rank 22
+Processing... 42 / 340
+query 020_009-clean-parselmouth truth is on rank 4
+Processing... 43 / 340
+query 020_011-clean-parselmouth truth is on rank 1
+Processing... 44 / 340
+query 020_015-clean-parselmouth truth is on rank 15
+Processing... 45 / 340
+query 020_016-clean-parselmouth truth is on rank 2
+Processing... 46 / 340
+query 020_018-clean-parselmouth truth is on rank 7
+Processing... 47 / 340
+query 021_009-clean-parselmouth truth is on rank 7
+Processing... 48 / 340
+query 021_010-clean-parselmouth truth is on rank 15
+Processing... 49 / 340
+query 021_011-clean-parselmouth truth is on rank 2
+Processing... 50 / 340
+query 022_001-clean-parselmouth truth is on rank 11
+Processing... 51 / 340
+query 022_003-clean-parselmouth truth is on rank 2
+Processing... 52 / 340
+query 022_004-clean-parselmouth truth is on rank 18
+Processing... 53 / 340
+query 022_005-clean-parselmouth truth is on rank 4
+Processing... 54 / 340
+query 023_021-clean-parselmouth truth is on rank 4
+Processing... 55 / 340
+query 023_029-clean-parselmouth truth is on rank 1
+Processing... 56 / 340
+query 023_030-clean-parselmouth truth is on rank 1
+Processing... 57 / 340
+query 025_001-clean-parselmouth truth is on rank 21
+Processing... 58 / 340
+query 025_013-clean-parselmouth truth is on rank 24
+Processing... 59 / 340
+query 025_021-clean-parselmouth truth is on rank 3
+Processing... 60 / 340
+query 025_025-clean-parselmouth truth is on rank 1
+Processing... 61 / 340
+query 025_027-clean-parselmouth truth is on rank 4
+Processing... 62 / 340
+query 026_001-clean-parselmouth truth is on rank 9
+Processing... 63 / 340
+query 026_003-clean-parselmouth truth is on rank 2
+Processing... 64 / 340
+query 026_030-clean-parselmouth truth is on rank 8
+Processing... 65 / 340
+query 027_006-clean-parselmouth truth is on rank 7
+Processing... 66 / 340
+query 027_007-clean-parselmouth truth is on rank 13
+Processing... 67 / 340
+query 027_008-clean-parselmouth truth is on rank 13
+Processing... 68 / 340
+query 027_009-clean-parselmouth truth is on rank 11
+Processing... 69 / 340
+query 027_010-clean-parselmouth truth is on rank 1
+Processing... 70 / 340
+query 027_011-clean-parselmouth truth is on rank 2
+Processing... 71 / 340
+query 027_012-clean-parselmouth truth is on rank 4
+Processing... 72 / 340
+query 027_013-clean-parselmouth truth is on rank 4
+Processing... 73 / 340
+query 027_014-clean-parselmouth truth is on rank 15
+Processing... 74 / 340
+query 027_015-clean-parselmouth truth is on rank 4
+Processing... 75 / 340
+query 027_016-clean-parselmouth truth is on rank 5
+Processing... 76 / 340
+query 027_017-clean-parselmouth truth is on rank 6
+Processing... 77 / 340
+query 027_018-clean-parselmouth truth is on rank 3
+Processing... 78 / 340
+query 027_019-clean-parselmouth truth is on rank 4
+Processing... 79 / 340
+query 027_020-clean-parselmouth truth is on rank 6
+Processing... 80 / 340
+query 027_021-clean-parselmouth truth is on rank 4
+Processing... 81 / 340
+query 027_027-clean-parselmouth truth is on rank 1
+Processing... 82 / 340
+query 027_028-clean-parselmouth truth is on rank 5
+Processing... 83 / 340
+query 028_004-clean-parselmouth truth is on rank 9
+Processing... 84 / 340
+query 028_007-clean-parselmouth truth is on rank 25
+Processing... 85 / 340
+query 028_014-clean-parselmouth truth is on rank 4
+Processing... 86 / 340
+query 028_024-clean-parselmouth truth is on rank 9
+Processing... 87 / 340
+query 029_005-clean-parselmouth truth is on rank 4
+Processing... 88 / 340
+query 029_006-clean-parselmouth truth is on rank 2
+Processing... 89 / 340
+query 029_008-clean-parselmouth truth is on rank 6
+Processing... 90 / 340
+query 029_009-clean-parselmouth truth is on rank 2
+Processing... 91 / 340
+query 029_029-clean-parselmouth truth is on rank 3
+Processing... 92 / 340
+query 030_004-clean-parselmouth truth is on rank 16
+Processing... 93 / 340
+query 030_007-clean-parselmouth truth is on rank 24
+Processing... 94 / 340
+query 030_008-clean-parselmouth truth is on rank 8
+Processing... 95 / 340
+query 030_015-clean-parselmouth truth is on rank 6
+Processing... 96 / 340
+query 030_020-clean-parselmouth truth is on rank 11
+Processing... 97 / 340
+query 030_021-clean-parselmouth truth is on rank 8
+Processing... 98 / 340
+query 030_023-clean-parselmouth truth is on rank 14
+Processing... 99 / 340
+query 030_025-clean-parselmouth truth is on rank 6
+Processing... 100 / 340
+query 031_010-clean-parselmouth truth is on rank 17
+Processing... 101 / 340
+query 031_011-clean-parselmouth truth is on rank 14
+Processing... 102 / 340
+query 031_012-clean-parselmouth truth is on rank 13
+Processing... 103 / 340
+query 031_015-clean-parselmouth truth is on rank 13
+Processing... 104 / 340
+query 031_016-clean-parselmouth truth is on rank 13
+Processing... 105 / 340
+query 031_027-clean-parselmouth truth is on rank 29
+Processing... 106 / 340
+query 031_028-clean-parselmouth truth is on rank 10
+Processing... 107 / 340
+query 031_029-clean-parselmouth truth is on rank 11
+Processing... 108 / 340
+query 031_030-clean-parselmouth truth is on rank 1
+Processing... 109 / 340
+query 032_004-clean-parselmouth truth is on rank 6
+Processing... 110 / 340
+query 032_005-clean-parselmouth truth is on rank 11
+Processing... 111 / 340
+query 032_007-clean-parselmouth truth is on rank 1
+Processing... 112 / 340
+query 032_010-clean-parselmouth truth is on rank 4
+Processing... 113 / 340
+query 032_011-clean-parselmouth truth is on rank 7
+Processing... 114 / 340
+query 032_012-clean-parselmouth truth is on rank 27
+Processing... 115 / 340
+query 032_014-clean-parselmouth truth is on rank 4
+Processing... 116 / 340
+query 032_030-clean-parselmouth truth is on rank 6
+Processing... 117 / 340
+query 033_020-clean-parselmouth truth is on rank 3
+Processing... 118 / 340
+query 033_022-clean-parselmouth truth is on rank 1
+Processing... 119 / 340
+query 033_023-clean-parselmouth truth is on rank 15
+Processing... 120 / 340
+query 033_025-clean-parselmouth truth is on rank 2
+Processing... 121 / 340
+query 033_029-clean-parselmouth truth is on rank 13
+Processing... 122 / 340
+query 034_014-clean-parselmouth truth is on rank 19
+Processing... 123 / 340
+query 034_024-clean-parselmouth truth is on rank 1
+Processing... 124 / 340
+query 034_026-clean-parselmouth truth is on rank 1
+Processing... 125 / 340
+query 034_027-clean-parselmouth truth is on rank 8
+Processing... 126 / 340
+query 034_029-clean-parselmouth truth is on rank 7
+Processing... 127 / 340
+query 034_031-clean-parselmouth truth is on rank 2
+Processing... 128 / 340
+query 034_034-clean-parselmouth truth is on rank 14
+Processing... 129 / 340
+query 034_035-clean-parselmouth truth is on rank 11
+Processing... 130 / 340
+query 034_038-clean-parselmouth truth is on rank 9
+Processing... 131 / 340
+query 034_042-clean-parselmouth truth is on rank 8
+Processing... 132 / 340
+query 035_016-clean-parselmouth truth is on rank 11
+Processing... 133 / 340
+query 035_017-clean-parselmouth truth is on rank 3
+Processing... 134 / 340
+query 036_025-clean-parselmouth truth is on rank 21
+Processing... 135 / 340
+query 037_009-clean-parselmouth truth is on rank 16
+Processing... 136 / 340
+query 037_010-clean-parselmouth truth is on rank 16
+Processing... 137 / 340
+query 037_064-clean-parselmouth truth is on rank 15
+Processing... 138 / 340
+query 037_067-clean-parselmouth truth is on rank 2
+Processing... 139 / 340
+query 037_068-clean-parselmouth truth is on rank 5
+Processing... 140 / 340
+query 037_073-clean-parselmouth truth is on rank 19
+Processing... 141 / 340
+query 037_074-clean-parselmouth truth is on rank 2
+Processing... 142 / 340
+query 037_076-clean-parselmouth truth is on rank 1
+Processing... 143 / 340
+query 038_025-clean-parselmouth truth is on rank 1
+Processing... 144 / 340
+query 038_026-clean-parselmouth truth is on rank 6
+Processing... 145 / 340
+query 038_027-clean-parselmouth truth is on rank 1
+Processing... 146 / 340
+query 040_001-clean-parselmouth truth is on rank 9
+Processing... 147 / 340
+query 040_006-clean-parselmouth truth is on rank 5
+Processing... 148 / 340
+query 040_007-clean-parselmouth truth is on rank 4
+Processing... 149 / 340
+query 040_010-clean-parselmouth truth is on rank 1
+Processing... 150 / 340
+query 040_011-clean-parselmouth truth is on rank 1
+Processing... 151 / 340
+query 040_014-clean-parselmouth truth is on rank 3
+Processing... 152 / 340
+query 040_015-clean-parselmouth truth is on rank 1
+Processing... 153 / 340
+query 040_017-clean-parselmouth truth is on rank 3
+Processing... 154 / 340
+query 040_018-clean-parselmouth truth is on rank 21
+Processing... 155 / 340
+query 040_020-clean-parselmouth truth is on rank 11
+Processing... 156 / 340
+query 043_002-clean-parselmouth truth is on rank 10
+Processing... 157 / 340
+query 043_008-clean-parselmouth truth is on rank 1
+Processing... 158 / 340
+query 043_050-clean-parselmouth truth is on rank 9
+Processing... 159 / 340
+query 044_001-clean-parselmouth truth is on rank 9
+Processing... 160 / 340
+query 044_004-clean-parselmouth truth is on rank 1
+Processing... 161 / 340
+query 044_005-clean-parselmouth truth is on rank 5
+Processing... 162 / 340
+query 044_008-clean-parselmouth truth is on rank 16
+Processing... 163 / 340
+query 044_010-clean-parselmouth truth is on rank 12
+Processing... 164 / 340
+query 044_016-clean-parselmouth truth is on rank 4
+Processing... 165 / 340
+query 044_018-clean-parselmouth truth is on rank 15
+Processing... 166 / 340
+query 044_021-clean-parselmouth truth is on rank 8
+Processing... 167 / 340
+query 044_026-clean-parselmouth truth is on rank 2
+Processing... 168 / 340
+query 044_027-clean-parselmouth truth is on rank 11
+Processing... 169 / 340
+query 044_028-clean-parselmouth truth is on rank 1
+Processing... 170 / 340
+query 044_030-clean-parselmouth truth is on rank 28
+Processing... 171 / 340
+query 044_036-clean-parselmouth truth is on rank 3
+Processing... 172 / 340
+query 044_044-clean-parselmouth truth is on rank 10
+Processing... 173 / 340
+query query0001-clean-parselmouth truth is on rank 6
+Processing... 174 / 340
+query query0002-clean-parselmouth truth is on rank 7
+Processing... 175 / 340
+query query0003-clean-parselmouth truth is on rank 2
+Processing... 176 / 340
+query query0005-clean-parselmouth truth is on rank 10
+Processing... 177 / 340
+query query0006-clean-parselmouth truth is on rank 6
+Processing... 178 / 340
+query query0008-clean-parselmouth truth is on rank 5
+Processing... 179 / 340
+query query0009-clean-parselmouth truth is on rank 10
+Processing... 180 / 340
+query query0010-clean-parselmouth truth is on rank 2
+Processing... 181 / 340
+query query0011-clean-parselmouth truth is on rank 7
+Processing... 182 / 340
+query query0013-clean-parselmouth truth is on rank 19
+Processing... 183 / 340
+query query0017-clean-parselmouth truth is on rank 7
+Processing... 184 / 340
+query query0018-clean-parselmouth truth is on rank 2
+Processing... 185 / 340
+query query0019-clean-parselmouth truth is on rank 6
+Processing... 186 / 340
+query query0020-clean-parselmouth truth is on rank 7
+Processing... 187 / 340
+query query0021-clean-parselmouth truth is on rank 5
+Processing... 188 / 340
+query query0022-clean-parselmouth truth is on rank 3
+Processing... 189 / 340
+query query0023-clean-parselmouth truth is on rank 4
+Processing... 190 / 340
+query query0036-clean-parselmouth truth is on rank 19
+Processing... 191 / 340
+query query0037-clean-parselmouth truth is on rank 27
+Processing... 192 / 340
+query query0038-clean-parselmouth truth is on rank 2
+Processing... 193 / 340
+query query0039-clean-parselmouth truth is on rank 4
+Processing... 194 / 340
+query query0043-clean-parselmouth truth is on rank 5
+Processing... 195 / 340
+query query0044-clean-parselmouth truth is on rank 10
+Processing... 196 / 340
+query query0045-clean-parselmouth truth is on rank 11
+Processing... 197 / 340
+query query0046-clean-parselmouth truth is on rank 12
+Processing... 198 / 340
+query query0047-clean-parselmouth truth is on rank 6
+Processing... 199 / 340
+query query0048-clean-parselmouth truth is on rank 1
+Processing... 200 / 340
+query query0049-clean-parselmouth truth is on rank 10
+Processing... 201 / 340
+query query0050-clean-parselmouth truth is on rank 10
+Processing... 202 / 340
+query query0051-clean-parselmouth truth is on rank 1
+Processing... 203 / 340
+query query0052-clean-parselmouth truth is on rank 18
+Processing... 204 / 340
+query query0053-clean-parselmouth truth is on rank 16
+Processing... 205 / 340
+query query0056-clean-parselmouth truth is on rank 5
+Processing... 206 / 340
+query query0057-clean-parselmouth truth is on rank 18
+Processing... 207 / 340
+query query0058-clean-parselmouth truth is on rank 13
+Processing... 208 / 340
+query query0061-clean-parselmouth truth is on rank 1
+Processing... 209 / 340
+query query0062-clean-parselmouth truth is on rank 1
+Processing... 210 / 340
+query query0063-clean-parselmouth truth is on rank 8
+Processing... 211 / 340
+query query0064-clean-parselmouth truth is on rank 10
+Processing... 212 / 340
+query query0065-clean-parselmouth truth is on rank 10
+Processing... 213 / 340
+query query0066-clean-parselmouth truth is on rank 10
+Processing... 214 / 340
+query query0067-clean-parselmouth truth is on rank 22
+Processing... 215 / 340
+query query0068-clean-parselmouth truth is on rank 13
+Processing... 216 / 340
+query query0069-clean-parselmouth truth is on rank 7
+Processing... 217 / 340
+query query0070-clean-parselmouth truth is on rank 1
+Processing... 218 / 340
+query query0071-clean-parselmouth truth is on rank 5
+Processing... 219 / 340
+query query0072-clean-parselmouth truth is on rank 11
+Processing... 220 / 340
+query query0073-clean-parselmouth truth is on rank 1
+Processing... 221 / 340
+query query0074-clean-parselmouth truth is on rank 1
+Processing... 222 / 340
+query query0075-clean-parselmouth truth is on rank 4
+Processing... 223 / 340
+query query0076-clean-parselmouth truth is on rank 6
+Processing... 224 / 340
+query query0077-clean-parselmouth truth is on rank 6
+Processing... 225 / 340
+query query0078-clean-parselmouth truth is on rank 2
+Processing... 226 / 340
+query query0079-clean-parselmouth truth is on rank 13
+Processing... 227 / 340
+query query0080-clean-parselmouth truth is on rank 1
+Processing... 228 / 340
+query query0081-clean-parselmouth truth is on rank 5
+Processing... 229 / 340
+query query0082-clean-parselmouth truth is on rank 2
+Processing... 230 / 340
+query query0083-clean-parselmouth truth is on rank 6
+Processing... 231 / 340
+query query0084-clean-parselmouth truth is on rank 14
+Processing... 232 / 340
+query query0085-clean-parselmouth truth is on rank 10
+Processing... 233 / 340
+query query0086-clean-parselmouth truth is on rank 10
+Processing... 234 / 340
+query query0090-clean-parselmouth truth is on rank 7
+Processing... 235 / 340
+query query0091-clean-parselmouth truth is on rank 4
+Processing... 236 / 340
+query query0092-clean-parselmouth truth is on rank 1
+Processing... 237 / 340
+query query0098-clean-parselmouth truth is on rank 18
+Processing... 238 / 340
+query query0099-clean-parselmouth truth is on rank 12
+Processing... 239 / 340
+query query0100-clean-parselmouth truth is on rank 6
+Processing... 240 / 340
+query query0101-clean-parselmouth truth is on rank 17
+Processing... 241 / 340
+query query0102-clean-parselmouth truth is on rank 18
+Processing... 242 / 340
+query query0103-clean-parselmouth truth is on rank 16
+Processing... 243 / 340
+query query0104-clean-parselmouth truth is on rank 22
+Processing... 244 / 340
+query query0105-clean-parselmouth truth is on rank 8
+Processing... 245 / 340
+query query0106-clean-parselmouth truth is on rank 5
+Processing... 246 / 340
+query query0107-clean-parselmouth truth is on rank 20
+Processing... 247 / 340
+query query0109-clean-parselmouth truth is on rank 7
+Processing... 248 / 340
+query query0115-clean-parselmouth truth is on rank 1
+Processing... 249 / 340
+query query0117-clean-parselmouth truth is on rank 1
+Processing... 250 / 340
+query query0121-clean-parselmouth truth is on rank 8
+Processing... 251 / 340
+query query0122-clean-parselmouth truth is on rank 17
+Processing... 252 / 340
+query query0137-clean-parselmouth truth is on rank 2
+Processing... 253 / 340
+query query0144-clean-parselmouth truth is on rank 2
+Processing... 254 / 340
+query query0145-clean-parselmouth truth is on rank 2
+Processing... 255 / 340
+query query0147-clean-parselmouth truth is on rank 10
+Processing... 256 / 340
+query query0149-clean-parselmouth truth is on rank 22
+Processing... 257 / 340
+query query0150-clean-parselmouth truth is on rank 1
+Processing... 258 / 340
+query query0151-clean-parselmouth truth is on rank 13
+Processing... 259 / 340
+query query0153-clean-parselmouth truth is on rank 10
+Processing... 260 / 340
+query query0154-clean-parselmouth truth is on rank 2
+Processing... 261 / 340
+query query0155-clean-parselmouth truth is on rank 3
+Processing... 262 / 340
+query query0160-clean-parselmouth truth is on rank 9
+Processing... 263 / 340
+query query0161-clean-parselmouth truth is on rank 24
+Processing... 264 / 340
+query query0165-clean-parselmouth truth is on rank 2
+Processing... 265 / 340
+query query0166-clean-parselmouth truth is on rank 3
+Processing... 266 / 340
+query query0173-clean-parselmouth truth is on rank 21
+Processing... 267 / 340
+query query0183-clean-parselmouth truth is on rank 1
+Processing... 268 / 340
+query query0187-clean-parselmouth truth is on rank 4
+Processing... 269 / 340
+query query0194-clean-parselmouth truth is on rank 2
+Processing... 270 / 340
+query query0196-clean-parselmouth truth is on rank 1
+Processing... 271 / 340
+query query0197-clean-parselmouth truth is on rank 6
+Processing... 272 / 340
+query query0200-clean-parselmouth truth is on rank 6
+Processing... 273 / 340
+query query0204-clean-parselmouth truth is on rank 5
+Processing... 274 / 340
+query query0205-clean-parselmouth truth is on rank 9
+Processing... 275 / 340
+query query0206-clean-parselmouth truth is on rank 1
+Processing... 276 / 340
+query query0207-clean-parselmouth truth is on rank 16
+Processing... 277 / 340
+query query0208-clean-parselmouth truth is on rank 5
+Processing... 278 / 340
+query query0209-clean-parselmouth truth is on rank 9
+Processing... 279 / 340
+query query0210-clean-parselmouth truth is on rank 12
+Processing... 280 / 340
+query query0221-clean-parselmouth truth is on rank 9
+Processing... 281 / 340
+query query0222-clean-parselmouth truth is on rank 3
+Processing... 282 / 340
+query query0223-clean-parselmouth truth is on rank 1
+Processing... 283 / 340
+query query0224-clean-parselmouth truth is on rank 3
+Processing... 284 / 340
+query query0225-clean-parselmouth truth is on rank 8
+Processing... 285 / 340
+query query0230-clean-parselmouth truth is on rank 28
+Processing... 286 / 340
+query query0231-clean-parselmouth truth is on rank 1
+Processing... 287 / 340
+query query0232-clean-parselmouth truth is on rank 10
+Processing... 288 / 340
+query query0236-clean-parselmouth truth is on rank 8
+Processing... 289 / 340
+query query0240-clean-parselmouth truth is on rank 19
+Processing... 290 / 340
+query query0241-clean-parselmouth truth is on rank 1
+Processing... 291 / 340
+query query0248-clean-parselmouth truth is on rank 13
+Processing... 292 / 340
+query query0249-clean-parselmouth truth is on rank 2
+Processing... 293 / 340
+query query0250-clean-parselmouth truth is on rank 8
+Processing... 294 / 340
+query query0251-clean-parselmouth truth is on rank 5
+Processing... 295 / 340
+query query0252-clean-parselmouth truth is on rank 19
+Processing... 296 / 340
+query query0253-clean-parselmouth truth is on rank 4
+Processing... 297 / 340
+query query0254-clean-parselmouth truth is on rank 3
+Processing... 298 / 340
+query query0255-clean-parselmouth truth is on rank 4
+Processing... 299 / 340
+query query0256-clean-parselmouth truth is on rank 2
+Processing... 300 / 340
+query query0257-clean-parselmouth truth is on rank 2
+Processing... 301 / 340
+query query0258-clean-parselmouth truth is on rank 9
+Processing... 302 / 340
+query query0259-clean-parselmouth truth is on rank 3
+Processing... 303 / 340
+query query0260-clean-parselmouth truth is on rank 1
+Processing... 304 / 340
+query query0261-clean-parselmouth truth is on rank 10
+Processing... 305 / 340
+query query0262-clean-parselmouth truth is on rank 5
+Processing... 306 / 340
+query query0274-clean-parselmouth truth is on rank 14
+Processing... 307 / 340
+query query0275-clean-parselmouth truth is on rank 10
+Processing... 308 / 340
+query query0276-clean-parselmouth truth is on rank 1
+Processing... 309 / 340
+query query0284-clean-parselmouth truth is on rank 23
+Processing... 310 / 340
+query query0285-clean-parselmouth truth is on rank 1
+Processing... 311 / 340
+query query0287-clean-parselmouth truth is on rank 3
+Processing... 312 / 340
+query query0288-clean-parselmouth truth is on rank 3
+Processing... 313 / 340
+query query0289-clean-parselmouth truth is on rank 12
+Processing... 314 / 340
+query query0290-clean-parselmouth truth is on rank 1
+Processing... 315 / 340
+query query0291-clean-parselmouth truth is on rank 3
+Processing... 316 / 340
+query query0296-clean-parselmouth truth is on rank 10
+Processing... 317 / 340
+query query0301-clean-parselmouth truth is on rank 12
+Processing... 318 / 340
+query query0302-clean-parselmouth truth is on rank 6
+Processing... 319 / 340
+query query0303-clean-parselmouth truth is on rank 20
+Processing... 320 / 340
+query query0304-clean-parselmouth truth is on rank 14
+Processing... 321 / 340
+query query0305-clean-parselmouth truth is on rank 11
+Processing... 322 / 340
+query query0306-clean-parselmouth truth is on rank 6
+Processing... 323 / 340
+query query0307-clean-parselmouth truth is on rank 3
+Processing... 324 / 340
+query query0312-clean-parselmouth truth is on rank 11
+Processing... 325 / 340
+query query0313-clean-parselmouth truth is on rank 1
+Processing... 326 / 340
+query query0317-clean-parselmouth truth is on rank 8
+Processing... 327 / 340
+query query0318-clean-parselmouth truth is on rank 2
+Processing... 328 / 340
+query query0322-clean-parselmouth truth is on rank 3
+Processing... 329 / 340
+query query0324-clean-parselmouth truth is on rank 3
+Processing... 330 / 340
+query query0325-clean-parselmouth truth is on rank 3
+Processing... 331 / 340
+query query0326-clean-parselmouth truth is on rank 5
+Processing... 332 / 340
+query query0327-clean-parselmouth truth is on rank 14
+Processing... 333 / 340
+query query0328-clean-parselmouth truth is on rank 4
+Processing... 334 / 340
+query query0329-clean-parselmouth truth is on rank 14
+Processing... 335 / 340
+query query0330-clean-parselmouth truth is on rank 1
+Processing... 336 / 340
+query query0336-clean-parselmouth truth is on rank 5
+Processing... 337 / 340
+query query0337-clean-parselmouth truth is on rank 3
+Processing... 338 / 340
+query query0338-clean-parselmouth truth is on rank 19
+Processing... 339 / 340
+query query0341-clean-parselmouth truth is on rank 17
+Processing... 340 / 340
+query query0355-clean-parselmouth truth is on rank 1
+MRR: 0.31 from 340 queries
+Top 1 ratio: 0.16 from 340 queries
+Top 3 ratio: 0.34 from 340 queries
+Top 5 ratio: 0.47 from 340 queries
+Top 10 ratio: 0.71 from 340 queries
+Average time for matching: 0.976 s
+Finish matching process
+Finish process Wav_Query_IOACAS_QBH_48_MIDI with Database midi IOACAS-QBH 48 MIDI
