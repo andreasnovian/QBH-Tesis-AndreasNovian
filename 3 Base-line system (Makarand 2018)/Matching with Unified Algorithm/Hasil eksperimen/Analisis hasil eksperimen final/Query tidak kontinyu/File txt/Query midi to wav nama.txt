@@ -1,0 +1,56 @@
+year0000-person00000-00001
+year0000-person00000-00002
+year0000-person00000-00003
+year0000-person00000-00004
+year0000-person00000-00005
+year0000-person00000-00006
+year0000-person00000-00007
+year0000-person00000-00008
+year0000-person00000-00009
+year0000-person00000-00010
+year0000-person00000-00011
+year0000-person00000-00012
+year0000-person00000-00013
+year0000-person00000-00014
+year0000-person00000-00015
+year0000-person00000-00016
+year0000-person00000-00017
+year0000-person00000-00018
+year0000-person00000-00019
+year0000-person00000-00020
+year0000-person00000-00021
+year0000-person00000-00022
+year0000-person00000-00023
+year0000-person00000-00024
+year0000-person00000-00025
+year0000-person00000-00026
+year0000-person00000-00027
+year0000-person00000-00028
+year0000-person00000-00029
+year0000-person00000-00030
+year0000-person00000-00031
+year0000-person00000-00032
+year0000-person00000-00033
+year0000-person00000-00034
+year0000-person00000-00035
+year0000-person00000-00036
+year0000-person00000-00037
+year0000-person00000-00038
+year0000-person00000-00039
+year0000-person00000-00040
+year0000-person00000-00041
+year0000-person00000-00042
+year0000-person00000-00043
+year0000-person00000-00044
+year0000-person00000-00045
+year0000-person00000-00046
+year0000-person00000-00047
+year0000-person00000-00048
+MRR: 0.92 from 48 queries
+Top 1 ratio: 0.9 from 48 queries
+Top 3 ratio: 0.94 from 48 queries
+Top 5 ratio: 0.96 from 48 queries
+Top 10 ratio: 1.0 from 48 queries
+Average time for matching: 0.767 s
+Finish matching process
+Finish process Test MIR-QBSH_midi-to-wav_parselmouth with Database midi MIR-QBSH

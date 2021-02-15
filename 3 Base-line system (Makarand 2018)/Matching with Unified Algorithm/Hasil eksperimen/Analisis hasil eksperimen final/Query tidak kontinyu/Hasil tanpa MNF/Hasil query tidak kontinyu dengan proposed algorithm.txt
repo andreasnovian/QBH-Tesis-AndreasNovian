@@ -1,0 +1,207 @@
+Start process Test query MIR-QBSH_midi-to-wav_parselmouth with Database midi MIR-QBSH
+uncontinue query
+Start matching process
+Start matching for first half
+Processing... 1 / 48
+query year0000-person00000-00001-parselmouth truth is on rank 4
+Processing... 2 / 48
+query year0000-person00000-00002-parselmouth truth is on rank 1
+Processing... 3 / 48
+query year0000-person00000-00003-parselmouth truth is on rank 2
+Processing... 4 / 48
+query year0000-person00000-00004-parselmouth truth is on rank 2
+Processing... 5 / 48
+query year0000-person00000-00005-parselmouth truth is on rank 1
+Processing... 6 / 48
+query year0000-person00000-00006-parselmouth truth is on rank 4
+Processing... 7 / 48
+query year0000-person00000-00007-parselmouth truth is on rank 1
+Processing... 8 / 48
+query year0000-person00000-00008-parselmouth truth is on rank 1
+Processing... 9 / 48
+query year0000-person00000-00009-parselmouth truth is on rank 1
+Processing... 10 / 48
+query year0000-person00000-00010-parselmouth truth is on rank 1
+Processing... 11 / 48
+query year0000-person00000-00011-parselmouth truth is on rank 1
+Processing... 12 / 48
+query year0000-person00000-00012-parselmouth truth is on rank 4
+Processing... 13 / 48
+query year0000-person00000-00013-parselmouth truth is on rank 1
+Processing... 14 / 48
+query year0000-person00000-00014-parselmouth truth is on rank 4
+Processing... 15 / 48
+query year0000-person00000-00015-parselmouth truth is on rank 1
+Processing... 16 / 48
+query year0000-person00000-00016-parselmouth truth is on rank 1
+Processing... 17 / 48
+query year0000-person00000-00017-parselmouth truth is on rank 1
+Processing... 18 / 48
+query year0000-person00000-00018-parselmouth truth is on rank 2
+Processing... 19 / 48
+query year0000-person00000-00019-parselmouth truth is on rank 7
+Processing... 20 / 48
+query year0000-person00000-00020-parselmouth truth is on rank 1
+Processing... 21 / 48
+query year0000-person00000-00021-parselmouth truth is on rank 1
+Processing... 22 / 48
+query year0000-person00000-00022-parselmouth truth is on rank 2
+Processing... 23 / 48
+query year0000-person00000-00023-parselmouth truth is on rank 1
+Processing... 24 / 48
+query year0000-person00000-00024-parselmouth truth is on rank 1
+Processing... 25 / 48
+query year0000-person00000-00025-parselmouth truth is on rank 2
+Processing... 26 / 48
+query year0000-person00000-00026-parselmouth truth is on rank 1
+Processing... 27 / 48
+query year0000-person00000-00027-parselmouth truth is on rank 1
+Processing... 28 / 48
+query year0000-person00000-00028-parselmouth truth is on rank 1
+Processing... 29 / 48
+query year0000-person00000-00029-parselmouth truth is on rank 3
+Processing... 30 / 48
+query year0000-person00000-00030-parselmouth truth is on rank 1
+Processing... 31 / 48
+query year0000-person00000-00031-parselmouth truth is on rank 4
+Processing... 32 / 48
+query year0000-person00000-00032-parselmouth truth is on rank 1
+Processing... 33 / 48
+query year0000-person00000-00033-parselmouth truth is on rank 1
+Processing... 34 / 48
+query year0000-person00000-00034-parselmouth truth is on rank 1
+Processing... 35 / 48
+query year0000-person00000-00035-parselmouth truth is on rank 1
+Processing... 36 / 48
+query year0000-person00000-00036-parselmouth truth is on rank 2
+Processing... 37 / 48
+query year0000-person00000-00037-parselmouth truth is on rank 1
+Processing... 38 / 48
+query year0000-person00000-00038-parselmouth truth is on rank 3
+Processing... 39 / 48
+query year0000-person00000-00039-parselmouth truth is on rank 5
+Processing... 40 / 48
+query year0000-person00000-00040-parselmouth truth is on rank 1
+Processing... 41 / 48
+query year0000-person00000-00041-parselmouth truth is on rank 4
+Processing... 42 / 48
+query year0000-person00000-00042-parselmouth truth is on rank 2
+Processing... 43 / 48
+query year0000-person00000-00043-parselmouth truth is on rank 9
+Processing... 44 / 48
+query year0000-person00000-00044-parselmouth truth is on rank 3
+Processing... 45 / 48
+query year0000-person00000-00045-parselmouth truth is on rank 1
+Processing... 46 / 48
+query year0000-person00000-00046-parselmouth truth is on rank 1
+Processing... 47 / 48
+query year0000-person00000-00047-parselmouth truth is on rank 3
+Processing... 48 / 48
+query year0000-person00000-00048-parselmouth truth is on rank 1
+Finish matching for first half
+Start matching for second half
+Processing... 1 / 48
+query year0000-person00000-00001-parselmouth truth is on rank 4
+Processing... 2 / 48
+query year0000-person00000-00002-parselmouth truth is on rank 1
+Processing... 3 / 48
+query year0000-person00000-00003-parselmouth truth is on rank 3
+Processing... 4 / 48
+query year0000-person00000-00004-parselmouth truth is on rank 1
+Processing... 5 / 48
+query year0000-person00000-00005-parselmouth truth is on rank 3
+Processing... 6 / 48
+query year0000-person00000-00006-parselmouth truth is on rank 4
+Processing... 7 / 48
+query year0000-person00000-00007-parselmouth truth is on rank 1
+Processing... 8 / 48
+query year0000-person00000-00008-parselmouth truth is on rank 6
+Processing... 9 / 48
+query year0000-person00000-00009-parselmouth truth is on rank 5
+Processing... 10 / 48
+query year0000-person00000-00010-parselmouth truth is on rank 1
+Processing... 11 / 48
+query year0000-person00000-00011-parselmouth truth is on rank 1
+Processing... 12 / 48
+query year0000-person00000-00012-parselmouth truth is on rank 5
+Processing... 13 / 48
+query year0000-person00000-00013-parselmouth truth is on rank 8
+Processing... 14 / 48
+query year0000-person00000-00014-parselmouth truth is on rank 4
+Processing... 15 / 48
+query year0000-person00000-00015-parselmouth truth is on rank 1
+Processing... 16 / 48
+query year0000-person00000-00016-parselmouth truth is on rank 1
+Processing... 17 / 48
+query year0000-person00000-00017-parselmouth truth is on rank 1
+Processing... 18 / 48
+query year0000-person00000-00018-parselmouth truth is on rank 1
+Processing... 19 / 48
+query year0000-person00000-00019-parselmouth truth is on rank 1
+Processing... 20 / 48
+query year0000-person00000-00020-parselmouth truth is on rank 1
+Processing... 21 / 48
+query year0000-person00000-00021-parselmouth truth is on rank 1
+Processing... 22 / 48
+query year0000-person00000-00022-parselmouth truth is on rank 1
+Processing... 23 / 48
+query year0000-person00000-00023-parselmouth truth is on rank 1
+Processing... 24 / 48
+query year0000-person00000-00024-parselmouth truth is on rank 1
+Processing... 25 / 48
+query year0000-person00000-00025-parselmouth truth is on rank 1
+Processing... 26 / 48
+query year0000-person00000-00026-parselmouth truth is on rank 1
+Processing... 27 / 48
+query year0000-person00000-00027-parselmouth truth is on rank 3
+Processing... 28 / 48
+query year0000-person00000-00028-parselmouth truth is on rank 1
+Processing... 29 / 48
+query year0000-person00000-00029-parselmouth truth is on rank 1
+Processing... 30 / 48
+query year0000-person00000-00030-parselmouth truth is on rank 1
+Processing... 31 / 48
+query year0000-person00000-00031-parselmouth truth is on rank 8
+Processing... 32 / 48
+query year0000-person00000-00032-parselmouth truth is on rank 1
+Processing... 33 / 48
+query year0000-person00000-00033-parselmouth truth is on rank 2
+Processing... 34 / 48
+query year0000-person00000-00034-parselmouth truth is on rank 2
+Processing... 35 / 48
+query year0000-person00000-00035-parselmouth truth is on rank 4
+Processing... 36 / 48
+query year0000-person00000-00036-parselmouth truth is on rank 6
+Processing... 37 / 48
+query year0000-person00000-00037-parselmouth truth is on rank 1
+Processing... 38 / 48
+query year0000-person00000-00038-parselmouth truth is on rank 1
+Processing... 39 / 48
+query year0000-person00000-00039-parselmouth truth is on rank 4
+Processing... 40 / 48
+query year0000-person00000-00040-parselmouth truth is on rank 1
+Processing... 41 / 48
+query year0000-person00000-00041-parselmouth truth is on rank 7
+Processing... 42 / 48
+query year0000-person00000-00042-parselmouth truth is on rank 2
+Processing... 43 / 48
+query year0000-person00000-00043-parselmouth truth is on rank 1
+Processing... 44 / 48
+query year0000-person00000-00044-parselmouth truth is on rank 1
+Processing... 45 / 48
+query year0000-person00000-00045-parselmouth truth is on rank 3
+Processing... 46 / 48
+query year0000-person00000-00046-parselmouth truth is on rank 1
+Processing... 47 / 48
+query year0000-person00000-00047-parselmouth truth is on rank 1
+Processing... 48 / 48
+query year0000-person00000-00048-parselmouth truth is on rank 1
+Finish matching for second half
+MRR: 0.86 from 48 queries
+Top 1 ratio: 0.79 from 48 queries
+Top 3 ratio: 0.85 from 48 queries
+Top 5 ratio: 1.0 from 48 queries
+Top 10 ratio: 1.0 from 48 queries
+Average time for matching: 0.615 s
+Finish matching process
+Finish process Test query MIR-QBSH_midi-to-wav_parselmouth with Database midi MIR-QBSH

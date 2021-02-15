@@ -1,0 +1,23 @@
+normal query with normal param
+MRR: 1.0 from 48 queries
+Top 1 ratio: 1.0 from 48 queries
+Top 3 ratio: 1.0 from 48 queries
+Top 5 ratio: 1.0 from 48 queries
+Top 10 ratio: 1.0 from 48 queries
+Average time for matching: 0.79 s
+
+split query with normal param
+MRR: 0.99 from 48 queries
+Top 1 ratio: 0.98 from 48 queries
+Top 3 ratio: 1.0 from 48 queries
+Top 5 ratio: 1.0 from 48 queries
+Top 10 ratio: 1.0 from 48 queries
+Average time for matching: 0.576 s
+
+split query with proposed algorithm
+MRR: 0.86 from 48 queries
+Top 1 ratio: 0.79 from 48 queries
+Top 3 ratio: 0.85 from 48 queries
+Top 5 ratio: 1.0 from 48 queries
+Top 10 ratio: 1.0 from 48 queries
+Average time for matching: 0.615 s
